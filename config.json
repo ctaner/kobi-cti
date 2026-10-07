@@ -1,0 +1,43 @@
+{
+  "site": {
+    "title": "KOBİ Tehdit İstihbaratı Portalı",
+    "short": "KOBİ-CTI",
+    "organization": "",
+    "contact": "",
+    "language": "tr"
+  },
+  "retention": {
+    "kev_new_days": 14,
+    "news_days": 14,
+    "news_max": 250,
+    "ioc_max_per_source": 6000,
+    "usom_api_pages": 10
+  },
+  "sources": {
+    "cisa_kev": true,
+    "epss": true,
+    "feodo": true,
+    "urlhaus": true,
+    "threatfox": true,
+    "usom": true,
+    "ransomware_live": true,
+    "rss": true
+  },
+  "ransomware_country": "TR",
+  "rss": [
+    { "name": "CISA Advisories", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml", "lang": "en" },
+    { "name": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "lang": "en" },
+    { "name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "lang": "en" },
+    { "name": "SANS ISC", "url": "https://isc.sans.edu/rssfeed_full.xml", "lang": "en" },
+    { "name": "Microsoft MSRC", "url": "https://api.msrc.microsoft.com/update-guide/rss", "lang": "en" }
+  ],
+  "blocklist_allow": [
+    "google.com", "googleusercontent.com", "gstatic.com", "microsoft.com", "live.com", "office.com",
+    "office365.com", "sharepoint.com", "onedrive.com", "windows.net", "azure.com", "github.com",
+    "githubusercontent.com", "gitlab.com", "bitbucket.org", "dropbox.com", "dropboxusercontent.com",
+    "amazonaws.com", "cloudfront.net", "cloudflare.com", "apple.com", "icloud.com",
+    "discord.com", "discordapp.com", "telegram.org", "t.me", "mediafire.com", "mega.nz",
+    "gov.tr", "edu.tr", "whatsapp.com", "facebook.com", "instagram.com", "yandex.ru", "yandex.com",
+    "bit.ly", "tinyurl.com", "akamaihd.net", "akamaized.net"
+  ]
+}

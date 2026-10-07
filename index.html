@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>KOBİ Tehdit İstihbaratı</title>
+  <meta name="description" content="KOBİ'ler için açık kaynak siber tehdit istihbaratı portalı: aktif istismar edilen zafiyetler, IOC arama, engelleme listeleri, fidye yazılımı takibi.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 2 4 7v8c0 7.4 5.1 13.6 12 15 6.9-1.4 12-7.6 12-15V7z' fill='%230F5E6B'/%3E%3Cpath d='M10 16h12M16 10v12' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">İçeriğe geç</a>
+
+  <header class="masthead">
+    <div class="wrap masthead-row">
+      <a class="brand" href="#genel" aria-label="Ana sayfa">
+        <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 2 4 7v8c0 7.4 5.1 13.6 12 15 6.9-1.4 12-7.6 12-15V7z"/><path class="brand-cross" d="M10 16h12M16 10v12"/></svg>
+        <span><strong id="site-title">KOBİ Tehdit İstihbaratı</strong><small id="site-org"></small></span>
+      </a>
+      <div class="masthead-meta">
+        <span id="updated" class="updated">Veri yükleniyor…</span>
+        <button id="theme-toggle" class="icon-btn" type="button" aria-label="Açık/koyu tema">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="tabs" aria-label="Bölümler">
+      <div class="wrap tabs-row" id="tabs">
+        <a href="#genel">Genel bakış</a>
+        <a href="#zafiyetler">Zafiyetler</a>
+        <a href="#varliklar">Varlıklarım</a>
+        <a href="#ioc">IOC arama</a>
+        <a href="#engelleme">Engelleme listeleri</a>
+        <a href="#haberler">Haberler</a>
+        <a href="#fidye">Fidye yazılımı</a>
+        <a href="#hijyen">Temel hijyen</a>
+        <a href="#bulten">Haftalık bülten</a>
+        <a href="#kaynaklar">Kaynaklar</a>
+      </div>
+    </nav>
+  </header>
+
+  <div id="demo-banner" class="demo-banner" hidden>
+    <div class="wrap">Bu sayfa <strong>demo verisi</strong> gösteriyor. Gerçek veriler, depodaki GitHub Actions iş akışı ilk kez çalıştığında gelir.</div>
+  </div>
+
+  <main id="main" class="wrap" tabindex="-1">
+    <p class="loading">Tehdit verisi yükleniyor…</p>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Açık kaynak verilerle (CISA KEV, FIRST EPSS, abuse.ch, USOM, ransomware.live) otomatik üretilir. Bilgilendirme amaçlıdır; kritik kararlar öncesinde üretici duyurularını doğrulayın.</p>
+      <p>Envanter ve kontrol listesi yalnızca bu tarayıcıda saklanır, hiçbir sunucuya gönderilmez.</p>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
