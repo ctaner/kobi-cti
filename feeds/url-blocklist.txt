@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - URL engelleme listesi
-# Üretildi: 2026-10-10 20:02 UTC
+# Üretildi: 2026-10-10 23:31 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 http://101.23.121.201:59456/bin.sh
@@ -60,12 +60,10 @@ http://112.229.244.155:37347/bin.sh
 http://112.229.244.155:37347/i
 http://112.82.137.139:39661/bin.sh
 http://112.82.137.139:39661/i
-http://113.228.108.53:50311/i
 http://113.229.177.51:38532/bin.sh
 http://113.229.177.51:38532/i
 http://113.230.23.232:53820/bin.sh
 http://113.230.23.232:53820/i
-http://113.230.235.85:33943/i
 http://113.230.24.226:38270/bin.sh
 http://113.230.27.216:42959/i
 http://113.231.230.20:55664/i
@@ -76,12 +74,12 @@ http://113.254.36.153:50445/i
 http://114.226.171.203:38256/bin.sh
 http://114.226.171.203:38256/i
 http://114.227.52.147:57947/bin.sh
+http://114.227.52.147:57947/i
 http://114.239.44.32:48797/i
 http://115.53.201.33:44073/Mozi.m
 http://115.56.157.241:35484/i
 http://115.96.229.130:52684/bin.sh
 http://116.138.107.166:54353/bin.sh
-http://116.138.107.166:54353/i
 http://116.138.191.211:33915/bin.sh
 http://116.138.191.211:33915/i
 http://116.140.161.144:43891/bin.sh
@@ -89,13 +87,14 @@ http://116.140.161.144:43891/i
 http://117.102.208.80:47693/bin.sh
 http://117.102.208.80:47693/i
 http://117.134.206.218:41681/Mozi.m
-http://117.63.189.130:34671/bin.sh
+http://117.63.189.130:34671/i
 http://117.63.241.133:54628/bin.sh
 http://117.82.160.238:59175/bin.sh
 http://117.82.160.238:59175/i
 http://118.69.157.212:9111/sshd
 http://119.109.210.22:55906/i
 http://119.117.164.243:35036/bin.sh
+http://119.165.235.139:57919/bin.sh
 http://119.165.235.139:57919/i
 http://119.179.30.73:43717/i
 http://119.99.250.231:44156/i
@@ -107,11 +106,11 @@ http://120.28.194.130:53799/i
 http://120.28.195.142:55751/bin.sh
 http://120.28.68.44:38896/bin.sh
 http://120.28.68.44:38896/i
+http://120.84.212.206:35060/i
 http://120.84.213.140:41114/bin.sh
 http://120.84.213.140:41114/i
 http://120.84.215.197:60936/i
 http://120.84.215.235:54297/i
-http://123.129.155.183:59273/i
 http://123.129.32.65:44603/bin.sh
 http://123.129.32.65:44603/i
 http://123.148.143.61:43201/i
@@ -140,7 +139,6 @@ http://129.159.135.190/bot_vps.x86_64
 http://129.159.135.190/mc_bypass.x86_64
 http://129.159.135.190/serve/ovhkill.sh
 http://130.12.182.77/main.armv4l
-http://130.12.182.77/main.armv7l
 http://130.12.209.153:57008/bin.sh
 http://130.12.209.153:57008/i
 http://138.226.247.154/session/8ea0e4ef65dd189c
@@ -228,6 +226,7 @@ http://172.245.106.144/violet.mips
 http://172.245.106.144/violet.mpsl
 http://172.245.106.144/violet.ppc
 http://172.245.106.144/violet.sh4
+http://172.245.106.144/violet.spc
 http://172.245.106.144/violet.x86
 http://175.11.53.167:43976/bin.sh
 http://175.11.53.167:43976/i
@@ -339,7 +338,6 @@ http://176.65.139.160/x86_64
 http://176.65.139.166:8080/cat.sh
 http://176.65.139.166:8080/iran.x86_64
 http://176.65.139.168/arm7
-http://176.65.139.168/mips
 http://176.65.139.168/mpsl
 http://176.65.139.168/x86
 http://176.65.139.197/main_arm
@@ -356,14 +354,15 @@ http://176.65.139.197/main_spc
 http://176.65.139.197/main_x64
 http://176.65.139.197/main_x86
 http://176.65.139.197/main_x86_64
-http://176.65.139.201/bot.exe
 http://176.65.139.201/nyx_bot_linux_amd64_exec
 http://176.65.139.201/nyx_bot_linux_amd64_packed
 http://176.65.139.201/nyx_bot_linux_mipsle_packed
+http://176.65.139.204/cat.sh
 http://176.65.139.204/iran.arc
 http://176.65.139.204/iran.armv4l
 http://176.65.139.204/iran.armv5l
 http://176.65.139.204/iran.armv7l
+http://176.65.139.204/iran.mipsel
 http://176.65.139.204/iran.powerpc
 http://176.65.139.204/iran.sh4
 http://176.65.139.211:3000/watcher-script/aarch64
@@ -732,6 +731,7 @@ http://222.127.170.84:44966/i
 http://222.127.220.233:56413/bin.sh
 http://222.127.220.233:56413/i
 http://222.127.54.84:39535/bin.sh
+http://222.127.54.84:39535/i
 http://222.137.250.123:48113/i
 http://222.173.239.186:39875/bin.sh
 http://222.173.239.186:39875/i
@@ -762,6 +762,7 @@ http://27.37.228.163:48371/i
 http://27.37.230.113:38849/i
 http://27.44.145.25:34039/i
 http://27.44.146.156:38129/i
+http://27.44.147.229:34870/i
 http://31.129.2.46:55739/bin.sh
 http://31.129.2.46:55739/i
 http://31.56.19.29/
@@ -769,8 +770,10 @@ http://31.56.209.11/pure.dat
 http://31.56.209.11/s.bat
 http://31.56.209.11/svc.exe
 http://31.76.30.6/
+http://31.77.144.86:49104/ddb64.dll
 http://36.255.33.195:35288/Mozi.m
 http://36.49.52.140:36933/Mozi.m
+http://36.49.52.140:36933/i
 http://37.193.132.190:46121/i
 http://38.55.99.215:8080/moot.arm
 http://38.55.99.215:8080/moot.mips
@@ -784,7 +787,6 @@ http://39.76.242.244:53855/i
 http://39.88.227.19:47791/bin.sh
 http://39.88.227.19:47791/i
 http://40.90.202.134/m.armv5l
-http://42.177.196.195:42178/bin.sh
 http://42.177.196.195:42178/i
 http://42.178.60.183:36993/bin.sh
 http://42.180.59.73:50911/bin.sh
@@ -813,6 +815,7 @@ http://43.228.157.73/47.exe
 http://43.228.157.73/99.exe
 http://43.228.157.73/client.exe
 http://43.228.157.73/softwaretech
+http://43.246.210.160:443/?h=43.246.210.160&p=443&t=tcp&a=w32&stage=true
 http://45.141.27.27/dll/
 http://45.144.52.239/armv4l
 http://45.144.52.239/armv5l
@@ -911,6 +914,7 @@ http://60.217.161.244:51953/i
 http://60.23.170.10:54006/bin.sh
 http://60.23.170.10:54006/i
 http://61.137.134.195:57134/i
+http://61.137.150.107:59822/bin.sh
 http://61.137.150.107:59822/i
 http://61.156.171.18:40579/bin.sh
 http://61.156.171.18:40579/i
@@ -920,7 +924,6 @@ http://61.69.169.69:39370/bin.sh
 http://61.69.169.69:39370/i
 http://61.71.255.225:43802/i
 http://62.60.226.140/files/gold/file.exe
-http://62.60.227.112/bins/mirai.ppc
 http://64.224.17.115/pictures/2.jpg
 http://64.89.160.48/bins/parm
 http://64.89.160.48/bins/parm5
@@ -962,9 +965,9 @@ http://83.168.69.95/armv4l
 http://83.168.69.95/armv5l
 http://83.168.69.95/armv6l
 http://83.168.69.95/armv7l
-http://83.168.69.95/hggseiqwekf.sh
 http://83.168.69.95/i486
 http://83.168.69.95/m68k
+http://83.168.69.95/mips
 http://83.168.69.95/mipsel
 http://83.168.69.95/mipsrouter
 http://83.168.69.95/powerpc
@@ -1071,6 +1074,7 @@ http://fgashub.shop:9932/addresses
 http://gerzone.click:4262/settings
 http://gusto.brothbridge.space
 http://helpdesk09-26.com/
+http://hkealop.shop:9932/sessions
 http://homecor.click:6527/documents
 http://homecor.click:6527/imports
 http://hotelhungry.com/public/winwin/Nivellering.mix
@@ -1108,7 +1112,6 @@ https://130.12.181.99/Bin/ScreenConnect.ClientSetup.exe
 https://130.12.181.99/bin/support.client.exe
 https://139.162.175.187
 https://167.233.107.104/
-https://17.aa.4t.com
 https://172.105.64.167
 https://172.105.93.106
 https://172.235.182.6
@@ -1145,7 +1148,6 @@ https://3o3irtt8p0eztfqlkeso.beer
 https://45.74.31.151:8443/dl/bot_linux_x86_32
 https://45.74.31.151:8443/dl/bot_linux_x86_64
 https://4dm3itrtps8m2grskrqygf.beer
-https://62.238.98.77
 https://6ab746fb57212ca6e1e7b121.imgix.net/img_142142.png
 https://77.42.10.33
 https://77.42.10.33/
@@ -1156,12 +1158,10 @@ https://85.137.54.178:8443/bins/1
 https://94.237.14.115
 https://94.237.14.115/
 https://95.182.97.240
-https://95.216.174.89
 https://95.217.241.133
 https://OSBOT.net/OSBot.jar
 https://OSMB.net/OSMB.jar
 https://aailc.co/
-https://activityof.com/datei
 https://actorsspotlight.com/
 https://adcentral.com.mx/administrator/ognltimg_051814.png
 https://af.332toto.net
@@ -1177,14 +1177,12 @@ https://alrehansign.com/
 https://aoclbl1a7jy7swo9b0kk.beer
 https://aplihartom.com/live/
 https://ask.shurimaster.com/
-https://atikintech.com/onestep
 https://ax.396zk.net
 https://az.hg77.org
 https://bg.177betwin.org
 https://bh.32naga.net
 https://blackiron.co.uk/
 https://bm45m70ol5ave2fopggr4q.beer
-https://bnsbackend.mydevsystems.com/redirect
 https://bogem10.org/
 https://boloshoy-huy-negra.com/
 https://bomboclat.rest/
@@ -1231,7 +1229,6 @@ https://donutsmpclient.com/__l5e/assets-v1/891584e3-cb79-4fbd-b302-c99f9a899cf5/
 https://donutsmpclient.com/__l5e/assets-v1/c03fba1e-47b9-42d6-aa75-19198316c380/WaterClientV6-1.21.11.jar
 https://download-files.wixmp.com/ugd/09c1d5_535e18f9f54e47a8a4f9587ce3e9a710.txt
 https://downtown886.com/
-https://drive.google.com/uc?export=download&id=1CjSD0JhJj42n2yygv_75tmpvl6Uqic4o
 https://dupe.dupe543.workers.dev/
 https://ebashim1.com/
 https://econuco.com/
@@ -1241,7 +1238,6 @@ https://egyoast.cloud/
 https://er44t35t5.cc/
 https://erifytrtr1.vip/
 https://esaenergy.com.pk/
-https://espirevox.com/next
 https://fe29jf323.kesug.com/aes.js
 https://fernandeseneri.adv.br/
 https://fh.33pedia.org/
@@ -2862,15 +2858,12 @@ https://hp.3toto.com/
 https://iannonnels.quest/
 https://ichamier.net/
 https://ik.333vip.org
-https://ik.333vip.org/
 https://ik.3toto.com
-https://ik.3toto.com/
 https://ikovrsps.com/Ikov.jar
 https://indian-community.club/
 https://invmove.com/InvMove-Fabric-1.21.11-v0.9.3.jar
 https://ipa-gaming.com/
 https://jgkawdq.cloud/
-https://ji.5-rt.org
 https://jilleynonava.quest/
 https://jqpss3yzn9n3mqqkukhfs.beer
 https://jsonkeeper.com/b/RRCKG
@@ -2888,7 +2881,6 @@ https://kh.333pwk.org
 https://kiprihorycom.com/work/
 https://kl.333vip.org
 https://kl.3toto.com
-https://kloudtechnology.in/step
 https://komaniboattour.com/
 https://kryptonclientcrack.lovable.app/downloads/KryptonClient-Crack.jar
 https://ku.16dewaslot.org
@@ -2902,6 +2894,7 @@ https://lily-philips.club/
 https://lo.332toto.net
 https://lo.369jk.org
 https://luminexclient.net/luminex-client-26.2.jar
+https://lydigital.com.br/
 https://ma.1hoki.org
 https://ma.zk89.net
 https://madmonkeystyle.com/
@@ -3137,7 +3130,6 @@ https://raw.githubusercontent.com/AnhadSachdeva/ImageSelector/main/node_modules/
 https://raw.githubusercontent.com/AnhadSachdeva/Key-Value-Store/main/build/CMakeFiles/Key-Value-Store-v2.9.zip
 https://raw.githubusercontent.com/AnhadSachdeva/Weather-Aggregation-System/main/WeatherAggregationSystem/target/surefire-reports/System-Weather-Aggregation-1.4.zip
 https://raw.githubusercontent.com/AnhadSachdeva/anhadsachdeva.github.io/refs/heads/main/cotyledon/anhadsachdeva_github_io_v1.2-alpha.4.zip
-https://raw.githubusercontent.com/Anonym0x/Art3mis-Launcher/refs/heads/main/screenshots/Art-mis-Launcher-3.7-alpha.3.zip
 https://raw.githubusercontent.com/Ansuraj31280/Chatrooms/refs/heads/main/src/Software-2.3-alpha.3.zip
 https://raw.githubusercontent.com/Ansuraj31280/Encrypted-Traffic-Classification-under-Concept-Drift/main/data/Concept_Classification_Encrypted_Traffic_under_Drift_v1.1-alpha.2.zip
 https://raw.githubusercontent.com/Anterochicupa26/anterochicupa26.github.io/refs/heads/main/Lulu/Latest-3.5.zip
@@ -6378,13 +6370,13 @@ https://skyblock-addons.com/SkyblockAddons-26.3.jar
 https://sm.hg77.org
 https://sogo-download.oss-cn-hongkong.aliyuncs.com/sougouExpiorerr_Setup_x64.zip
 https://soholat.sa/
+https://sosaiem217.pages.dev/Sosaiem-Miner.exe
 https://spinninghubcaps.com/
 https://sqpengg.com/vi1xwsm/trbhoun/wzyergu/nn/crypted.ps1
 https://sspgal.com/
 https://st.332toto.net
 https://st.369jk.org
 https://steamcommunity.com/profiles/76561198628246386
-https://steamcommunity.com/profiles/76561198630398488
 https://stellaspicy.org/2026scrill/RuneLite.exe
 https://stellaspicy.org/2026scrill/client.jar
 https://stellaspicy.org/2026scrill/ping.php
