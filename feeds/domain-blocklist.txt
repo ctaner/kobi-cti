@@ -1,9 +1,11 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-13 23:43 UTC
+# Üretildi: 2026-10-14 04:48 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
+01sz1h97.cita-top.com
 09f9wqsm.kaarenorge.com
 0zj2voyo.roseanne.id
+1.me
 10minutos.com.uy
 1309673150-86ymvxmhrm.ap-shanghai.tencentscf.com
 16s4e82txk.workers.dev
@@ -16,10 +18,8 @@
 2min.info
 32cb0fe5.roseanne.id
 3ob.fr
-4aq2w5u1fe.workers.dev
 4sh4ogh4u9.workers.dev
 4vr5sxshsx6se4qixnrvbqyikqtknfjhe4ybitp2zhjjzazm4ohawbid.onion
-522jsf6oyx.workers.dev
 67sixcebeh.surf
 6ah8ena1.kulonprogo.org
 7834156259.dojiner.at
@@ -42,6 +42,7 @@ accessory-online.com
 acefotos.com
 acrob.my-adobe-plugins-update.top
 acrobaticpoly.com
+admin.lzgqin.cc.cd
 adonaicleaningservices.co.za
 advokats-lv.com
 aeroclublocarno.ch
@@ -55,6 +56,7 @@ agricropmarket.com
 agrygamger.com
 ahhs.edu.bd
 ahnocarbide.com
+ahzro54047.workers.dev
 aircare-pro.com
 ajudaai.app.br
 akonis.fr
@@ -65,8 +67,11 @@ alexander-wille.de
 alexsindler.com
 algherocar.com
 alignedassetgroup.com
+alkaleejia.com
+alkaleejia.wiki
 allthingschew.com
 almonjid.com
+amanahceria.us.com
 amber-ridge-bruixsioi.pro
 amber-weave-otter-luor.pro
 amirashrafi.ir
@@ -78,6 +83,7 @@ andresjost.com
 andrestaedele.com
 ankara-otomatikkapi.com
 antonicelliformazione.it
+ao.77777w.net
 apdhlhs3.xyz
 apel-jean23.org
 api.microsoftstorapi.com
@@ -98,7 +104,6 @@ asltel.com
 aspdarchitectss.com
 asturigin.com
 atelier-maloet.fr
-authoritymarketingagent.com
 autobreak.co
 autoescolavallecar.com
 ava-group.fr
@@ -126,12 +131,8 @@ beautifullbody.nl
 becva.cz
 bee.beachcafemb.com
 beerbalco.com
-bescaphoto.ga
 bewustconsulting.com
 beyondphotography.vn
-bfb.6666k.org
-bhu.5tr.org
-bhu.iakmialor.web.id
 bi.73kcom.org
 bimerland.com
 binaryprofes.com
@@ -145,6 +146,7 @@ bj66.casino
 bj66bet.com
 bj66c1.com
 bj66khuyenmai.com
+bk.77777w.net
 blackbachelor.com
 blackthornkeep.top
 bladehostpi.life
@@ -170,8 +172,8 @@ brandbunch.pk
 bratwurstdeluxe.de
 bridges.pt
 brightbunnyservices.com
-bro.6666k.org
 brododigiuggiola.it
+browse-codes-enter.beer
 browse-veriid.beer
 bru.6666k.org
 bryanmotor.com
@@ -215,7 +217,7 @@ churchlightingsystems.com
 cinnalogy.com
 cirkoborpi.life
 citcix6.xyz
-ck.erloro.com
+cj.77777w.net
 clay.asianpalaceii.com
 clclinicesthetic.com
 cleancorebaltimore.com
@@ -253,10 +255,11 @@ csekokavehaz.hu
 cv428350.tw1.ru
 cy487295.tw1.ru
 cyan8115.workers.dev
+cykoqazu.workers.dev
 cyrus.anondns.net
+cz.77777w.net
 d4.6r6r6.org
 d9mjs.sbs
-damacyra.workers.dev
 dancingfish.asia
 dandori.co.jp
 danialterations.com
@@ -276,6 +279,7 @@ detaknegeri.com
 dev.basquecountrycom.online
 dg0x81sh.pattysole.com
 dgmg.xyz
+dhi2aazeft.workers.dev
 diamlabio.com
 diariodeestoicos.com
 diesicyprus.com.cy
@@ -480,18 +484,15 @@ jasai.co
 jaskdhakjsdhww.com
 jasonmooreconsulting.com
 jda-advies.nl
-jeevi.store
 jemsysi.com
 jeremypeckham.com
 jewelsbranch.com
 ji.6r6r6.org
 jnt.5tr.org
-jnt.6666k.org
 jokekipi.workers.dev
 joseluislacasta.com
 joshkolay.com
 jrxciw2.xyz
-jte.6666k.org
 jui.666iapk.net
 junglesurvivalacademy.com
 juplterairdrop.cfd
@@ -529,7 +530,6 @@ kreidezeitfenster.de
 krioldflaeara-willow.pro
 kristalss.cc
 kseniayurevna.com
-ktn.5tr.org
 kurahaastudios.com
 kvigx63781.workers.dev
 kyduqu.workers.dev
@@ -564,7 +564,6 @@ livelab.pl
 livincredible.workers.dev
 livinghealthwellnessco.com
 lk.6r6r6.org
-lkmfs10031.workers.dev
 logisticsinside.nl
 longslimpi.life
 loreandscience.es
@@ -573,7 +572,6 @@ loumar.dk
 lp.imersaosevenx.com.br
 lra.6666k.org
 lrg.6666k.org
-lry.6666k.org
 lucchesipgh.org
 lunza.store
 lustkliondruara.space
@@ -618,11 +616,9 @@ mgtjw41233.workers.dev
 mgu.6666k.org
 mgxyuko.xyz
 mhsohan.site
-mhxpjmu3.buhubee.com
 michellemillerproofreading.com
 mightymastermarketing.com
 migratemate.co.uk
-mii.6666k.org
 mike-chauffeur.cz
 mikesrealestate.co.nz
 mikoblico.xyz
@@ -660,7 +656,6 @@ mythsandarts.com
 n.6r6r6.org
 n2.73kcom.org
 n34.6666k.org
-n8rdcldqkv.workers.dev
 n9.666iapk.net
 nagukato.workers.dev
 nahr-iq.org
@@ -680,8 +675,6 @@ nikabeautyclinic.com
 nikolatesla.website
 njpvt59617.workers.dev
 nnf.6666k.org
-no1.5tr.org
-no1.6666k.org
 noa.666iapk.net
 noblissime.ch
 node-ex1.pool-1-1.dynamic.nt-isp.net
@@ -692,7 +685,6 @@ norrykilu231.digital
 northhouse.cfd
 novamostra.com
 novin-sakht.ir
-npq.6666k.org
 ns1.kcsc.tf
 ns2.kcsc.tf
 nursoft.one
@@ -727,7 +719,6 @@ pardazeshsazan.com
 patduggan.com
 payload1717.pro
 pelakhaft.ir
-pepezunu.workers.dev
 personaltrainer-wiesbaden.com
 petap.art
 pfandleih-fuerth.de
@@ -782,6 +773,7 @@ raimond-scheirich.de
 rand-symbs.rest
 randomx-it.rest
 raster-87.com
+re.77777w.net
 redandwhitemagzz.com
 reed-koaor-tekzr.pro
 reentryartsconnection.org
@@ -793,6 +785,7 @@ retexio.com
 rezus.team
 ridge-goalmduix.pro
 rik-meijer.com
+rizymoka.workers.dev
 rmhbartels.net
 robinsoo.lol
 rockandsearealestate.com
@@ -805,13 +798,11 @@ rosman.biz
 rovgruien.pro
 rozsignificant.workers.dev
 rrj.6666k.org
-rtp-k86sportop.site
 rtplive-miliarbet.online
 ruihankj.top
 runelite.is
 runelite.menu
 s1w21.comen.store
-s1xe2votdn.workers.dev
 s8.77777w.net
 saanvipeddi.com
 saetspa.it
@@ -839,9 +830,7 @@ secure-node-protection04.s3.us-west-004.backblazeb2.com
 security-bloom-pw34.pages.dev
 senturkvincyapi.com
 seo.codesmithsystems.com
-sep.5tr.org
 sep.71k.org
-sep.iakmialor.web.id
 serviciosgonzalezmx.com
 seustuds.skin
 sevabrigade.org
@@ -863,7 +852,6 @@ skaedbraearaquiet.life
 skhormoz.com
 skiland.cz
 skupujemyspolki.pl
-skynetwork.lat
 slentnaearamisty.pro
 slighfoxinc.com
 smdh7.surf
@@ -872,6 +860,7 @@ smkn2jember.sch.id
 sobiqisi.workers.dev
 sobrietynownetwork.com
 soiblossom.com
+sojf56jebe.workers.dev
 solevento.eu
 solidebi.workers.dev
 sonido13.com
@@ -892,7 +881,6 @@ stormfangridge.top
 stormwraith.com
 straely.biz
 strategyfinders.com
-stv4ec5.shop
 styrofoam-crafts.com
 sueddeutsche-iv.de
 sumuttoday.com
@@ -905,6 +893,7 @@ sxmaytinhdientu.devs.surf
 sxtbd04071.workers.dev
 symbol-foru.rest
 systemnotifier.st
+szcx.uk.com
 t-rent24.de
 t6.6r6r6.org
 tabesimag.com
@@ -922,8 +911,8 @@ technogeek.es
 teculse.click
 tedjcreation.com
 tehranaquaria.com
+tejuvila.workers.dev
 teknnovationbyobaid.teknnovation.com
-tempmailgb.com
 tensoehhitrln.com
 tepliceapartman.cz
 tepolymers.com
@@ -946,19 +935,13 @@ thiennguyencobonla.com
 thistle-godbriaum.pro
 threejrev.com
 tigerhosts.eu
-tir.5tr.org
-tir.iakmialor.web.id
 tis.676i.org
-tlakj14995.workers.dev
 tmm35.com
 tocespecialpresentes.com.br
 tochnomirzasuka.com
 toivio.info
-tol.5tr.org
-tol.6666k.org
 toldosortizrd.com
 toobusy2clean.com
-toolauncher.com
 tools.studerandson.com
 topindiandetectiveagency.com
 tosee-laser.com
@@ -967,7 +950,6 @@ trail-and-tour.com
 trilliot6776.icu
 trokuni412.icu
 ttasqdwmpwnaw.com
-tubewagu.workers.dev
 tumiveme.workers.dev
 tuurintupa.fi
 twiincandle.com
@@ -1017,14 +999,13 @@ vitalbusinesservices.com
 vividstreaming.live
 vjqcn67992.workers.dev
 vnbj66.com
-vo8.6666k.org
 vok.6666k.org
 vormix.nl
 voyag413.xyz
 vr.6r6r6.org
 vtr.6666k.org
 vty.6666k.org
-vve.6666k.org
+vyhyculo.workers.dev
 wakalayasm.forum
 wall.casajuanchos.com
 wartasentral.com
@@ -1091,8 +1072,10 @@ www.olababamazinowbackup.com
 www.pachamamaroteisland.com
 www.qkshhdjrbd.work
 www.roofmartlk.com
+www.simonacheli.com
 www.slighfoxinc.com
 www.solevento.eu
+www.solis-srl.com
 www.stmichaelsway.eu
 www.sumuttoday.com
 www.view360.lk
@@ -1101,6 +1084,7 @@ x3a.6666k.org
 x5u.6r6r6.org
 xatodaka.workers.dev
 xetienchuyenvungtausaigon.com
+xg1iu5w5.asesoriamerenlinea.com
 xlirf57223.workers.dev
 xomasaty.workers.dev
 xorados.com
@@ -1116,11 +1100,10 @@ yilko.ir
 yilmazbijuteri.com.tr
 yilufafafa.club
 yisan.cz
-yjy.5tr.org
-yjy.6666k.org
 ym8ey0u71i.workers.dev
 ymkkf.com
 yu8y1w.oss-cn-beijing.aliyuncs.com
+zaqowe.workers.dev
 zejax.cz
 zetnets.nl
 zfl-lernen.de
@@ -1133,5 +1116,4 @@ zpz.6666k.org
 zsjosefov.cz
 zuma789-z.com
 zwienenberg.nl
-zxi.6666k.org
 zypupmp.xyz
