@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-14 20:11 UTC
+# Üretildi: 2026-10-14 23:11 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 01sz1h97.cita-top.com
@@ -10,7 +10,6 @@
 16s4e82txk.workers.dev
 178-128-196-79.sslip.io
 1stmarijuanagrowerspage.com
-1ywz60u1.cicakdidinding.org
 2legendsnyc.com
 2min.info
 3ob.fr
@@ -25,7 +24,6 @@
 8393546939.dojiner.at
 84-105-233-69.cable.dynamic.v4.ziggo.nl
 8909451279.f1shh.at
-8f900d33.paketmalam.vip
 988wan.me
 98win.fast
 98win99m.com
@@ -47,6 +45,7 @@ afrogarnics.us
 against-all-doubt.com
 agent.cloudfiledisk.com
 agpoferroli1.nl
+agrygamger.com
 ahhs.edu.bd
 ahnocarbide.com
 ahzro54047.workers.dev
@@ -73,6 +72,7 @@ amanahtotoceria.us.com
 amanahtotoid.us.com
 amanahtotoind.de.com
 amanahtotokeren.uk.com
+amanahtotolite.de.com
 amber-ridge-bruixsioi.pro
 amber-weave-otter-luor.pro
 amirashrafi.ir
@@ -89,6 +89,7 @@ apel-jean23.org
 api.getgoapi.cc
 api.lzgqin.cc.cd
 api.microsoftstorapi.com
+aplihartom.com
 aranjaya.com
 ararchoir.com
 ariesit.in
@@ -151,6 +152,7 @@ bk.77777w.net
 blackbachelor.com
 blackthornkeep.top
 bladehostpi.life
+blancasepulveda.com
 blazinggoldcasino.net
 blog.donitesmithy.info
 blog.zonepi.cz
@@ -158,6 +160,7 @@ bloomintegrative-health.com
 bluewatchtower.com
 bobilittelpony.com
 bobroviysmex.shop
+boombeautysalonandspa.ca
 borderline-hamburg.de
 boriselcin.website
 bornapos.com
@@ -230,11 +233,13 @@ completetechnologyresources.com
 complianceportals.com
 compujuank.com
 conceitualalbuns.com.br
+confeitariashow.com.br
 congreso-cimu.com
 connecting.autos
 cookiestart.pl
 corso-oss.it
 cotesdethongue.fr
+covalenthomes.com
 cq.777wins.org
 craigleahomes.com.au
 crazylifestyle.fr
@@ -242,6 +247,7 @@ creativecollectionbyshon.com
 creoantofagasta.cl
 crowneducationalconsultancy.com
 cruahop.shop
+cs2.acsdomaindsadas.click
 csbmy02344.workers.dev
 csekokavehaz.hu
 cv428350.tw1.ru
@@ -254,12 +260,14 @@ dancingfish.asia
 dandori.co.jp
 danialterations.com
 danieldewaldgreyfeathers.com
+darkoobedu.ir
 dasdase13.icu
 dataempireusa.com
 dc30yzl72d.workers.dev
 dcgfun.top
 dcworman.duckdns.org
 ddosp.org
+decoma.workers.dev
 dehraduntimes.com
 dein-dachblech.de
 deqazy.workers.dev
@@ -377,7 +385,6 @@ gerts.fund
 getgoapi.cc
 ggresp.com
 girlsonpi823.life
-gixalepo.workers.dev
 gixxipi9823.life
 glacial-bloom-wren-croaon.life
 glolsbs.top
@@ -409,7 +416,9 @@ hawramanat.ir
 healskills.com
 hel1uuve.asesoriabamk.com
 helium10.coupons
+helsingoercarpenter.dk
 helvion.cc
+hetadvieskantoor.nl
 hinsonproductions.net
 hipposonline.com
 histobrand.com
@@ -474,6 +483,7 @@ jonebo.workers.dev
 joqito.workers.dev
 joseluislacasta.com
 joshkolay.com
+jrr.77tuna.org
 js-static.digital
 js-static.global
 js-static.icu
@@ -555,6 +565,7 @@ lk.6r6r6.org
 lkol.dyn
 llm.lzgqin.cc.cd
 logisticsinside.nl
+longslimpi.life
 loreandscience.es
 loumar.dk
 lucchesipgh.org
@@ -616,6 +627,7 @@ mog-battle-with-rabbids.cc
 moje.cieplo.info
 mondknoten.de
 mondkompass.com
+monkeydigital.asia
 montrex.cc
 moodesign.mu
 mooivoorjou.nl
@@ -638,6 +650,7 @@ nahr-iq.org
 namecheaps.duckdns.org
 naqydy.workers.dev
 neecees.com
+networkness.com
 neumanab.se
 neurod.nl
 new-mexico.club
@@ -654,6 +667,7 @@ nikolatesla.website
 njpvt59617.workers.dev
 noa.666iapk.net
 noblissime.ch
+nokumehy.workers.dev
 norkapi41.icu
 norrykilu231.digital
 nothingnew.wpengine.com
@@ -662,6 +676,7 @@ novin-sakht.ir
 ns1.kcsc.tf
 ns2.kcsc.tf
 nursoft.one
+nuv6c5c1.biolinkit.com
 ny6047lj.beterbewegenmetyael.blog
 obamamnenegr.com
 occidentalconstruction.com
@@ -690,7 +705,6 @@ p.73kcom.org
 p6.777wins.org
 pachamamaroteisland.com
 paciiif.com
-paketmalam.vip
 paleanchor.com
 papatty.ir
 pardazeshsazan.com
@@ -713,6 +727,7 @@ playenglishworld.com
 pleasantsims.com
 poalmcreorvelvet.pro
 podclubmedia.com
+podnamiot.eu
 powergas.uk
 princess-gem.com
 pro.oakcanticle.co
@@ -797,6 +812,7 @@ satstech.ae
 sbmalley.com
 scanlanglass.com
 scarletplume.com
+schinner.icu
 schoenerglauben.jetzt
 sdermedique.com
 se-rayapi.com
@@ -870,7 +886,6 @@ sussland.de
 sweepin.fr
 sxtbd04071.workers.dev
 symbol-foru.rest
-systemnotifier.st
 szcx.uk.com
 t-rent24.de
 t6.6r6r6.org
@@ -912,7 +927,7 @@ thiennguyencobonla.com
 thistle-godbriaum.pro
 thjduywf.asociadospacifico.com
 tigerhosts.eu
-tis.676i.org
+tjsmedical.com
 tmm35.com
 tocespecialpresentes.com.br
 tochnomirzasuka.com
@@ -931,7 +946,6 @@ tronide.cc
 tumiveme.workers.dev
 tuurintupa.fi
 twiincandle.com
-u1u.676i.org
 udrzba-sprava.cz
 uduka.duckdns.org
 uhg.edu.py
@@ -963,7 +977,6 @@ vetilicius.com
 vgparis.fr
 vicibici.com
 view360.lk
-vifabecu.workers.dev
 viktoria06buchholz.de
 vinst.fi
 vissarion.org
@@ -971,13 +984,13 @@ visualsoundblast.com
 vitalbusinesservices.com
 vivid-roam-cove-gleon.life
 vividstreaming.live
-vjqcn67992.workers.dev
 vmi3289146.contaboserver.net
 vnbj66.com
 vormix.nl
 voyag413.xyz
 vr.6r6r6.org
 vyhyculo.workers.dev
+w4.77tuna.org
 wakalayasm.forum
 wartasentral.com
 was.cantdown.su
@@ -1007,6 +1020,7 @@ wohepuhy.workers.dev
 wonderlandministorage.com
 wonpixel.com
 wordforward.org
+workworm1412.buzz
 worldbc.co
 wosback.cc
 wuntred.com
@@ -1075,7 +1089,6 @@ www.ibv7pi89gcy6fq-oc3.net
 www.ioa7xqmhiz26fv5e.info
 www.janubhavtaxsolutions.com
 www.jhflt6l0dwminsl494836rb.org
-www.jollyparcheggio.it
 www.joseluislacasta.com
 www.knrd2up67onim5epfcxgvx.net
 www.kp2-3ur6pe4r8i2hj5.com
@@ -1089,6 +1102,7 @@ www.lsexctodyiaygkqr2.cc
 www.lz81ugazc-3rxi-1draiesh.org
 www.mandarinclassroom.hk
 www.mgmyhys8v6v19e9w5kbizn6i.cc
+www.mgttw.com
 www.mvgl1ne40s65srdtnlc.info
 www.nahr-iq.org
 www.neqbzjio8rflhgwclmpr.app
@@ -1140,7 +1154,6 @@ x5u.6r6r6.org
 xatodaka.workers.dev
 xetienchuyenvungtausaigon.com
 xg1iu5w5.asesoriamerenlinea.com
-xlirf57223.workers.dev
 xomasaty.workers.dev
 xorados.com
 xuxasi.workers.dev
@@ -1160,6 +1173,7 @@ zalupka.website
 zaqowe.workers.dev
 zejax.cz
 zetnets.nl
+zevyza.workers.dev
 zfl-lernen.de
 zippis.xyz
 zj.666iapk.net
