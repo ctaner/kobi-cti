@@ -1,9 +1,8 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-14 23:11 UTC
+# Üretildi: 2026-10-15 04:33 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 01sz1h97.cita-top.com
-09f9wqsm.kaarenorge.com
 0zj2voyo.roseanne.id
 1.me
 10minutos.com.uy
@@ -19,6 +18,7 @@
 5iwj5wcz.iscc.com.mx
 66ds.lol
 6ah8ena1.kulonprogo.org
+6stmmehy.mdaasesorias.com.mx
 7834156259.dojiner.at
 7z8lxhnj.citaasesoriareyes.com
 8393546939.dojiner.at
@@ -29,7 +29,6 @@
 98win99m.com
 a2a-mednet.com
 aafesorder.com
-abagail486.workers.dev
 abissnet.cloud
 academiaidiomasgeranios.com
 accessory-online.com
@@ -45,7 +44,6 @@ afrogarnics.us
 against-all-doubt.com
 agent.cloudfiledisk.com
 agpoferroli1.nl
-agrygamger.com
 ahhs.edu.bd
 ahnocarbide.com
 ahzro54047.workers.dev
@@ -73,6 +71,11 @@ amanahtotoid.us.com
 amanahtotoind.de.com
 amanahtotokeren.uk.com
 amanahtotolite.de.com
+amanahtotolive.de.com
+amanahtotolust.us.com
+amanahtotomobile.de.com
+amanahtotonice.de.com
+amaranthlizzie.workers.dev
 amber-ridge-bruixsioi.pro
 amber-weave-otter-luor.pro
 amirashrafi.ir
@@ -89,12 +92,11 @@ apel-jean23.org
 api.getgoapi.cc
 api.lzgqin.cc.cd
 api.microsoftstorapi.com
-aplihartom.com
 aranjaya.com
 ararchoir.com
-ariesit.in
 arkgrup.com
 armandental.com
+armwrestlers.club
 arquersesclanya.cat
 art-of-eternity.com
 arusmrtech.com
@@ -113,7 +115,6 @@ axulus.io
 aygjqdr4l2s88zi.icu
 ayswteb.com
 b-edil.com
-b.666iapk.net
 b031beafd8f3.net
 backtoblack7.com
 baharmiss.com
@@ -135,6 +136,7 @@ beltlinecovidtesting.com
 bewustconsulting.com
 beyondphotography.vn
 bi.73kcom.org
+biggerworldclassstandard.com
 bigzerotechnology.com
 bimerland.com
 binaryprofes.com
@@ -152,7 +154,6 @@ bk.77777w.net
 blackbachelor.com
 blackthornkeep.top
 bladehostpi.life
-blancasepulveda.com
 blazinggoldcasino.net
 blog.donitesmithy.info
 blog.zonepi.cz
@@ -160,7 +161,6 @@ bloomintegrative-health.com
 bluewatchtower.com
 bobilittelpony.com
 bobroviysmex.shop
-boombeautysalonandspa.ca
 borderline-hamburg.de
 boriselcin.website
 bornapos.com
@@ -195,6 +195,7 @@ casinoedenbet.net
 casinoluckmatrix.net
 casinoluckyhits.net
 casinosupremewin.net
+catloverzz.club
 cbfincom.com
 ccactores.com
 cctonami.jp
@@ -228,12 +229,12 @@ coastalhospicesc.com
 code.lzgqin.cc.cd
 coffeetrainingcenteratbd.com
 comabat.be
+commonhedgehogs.com
 complementsthor.com
 completetechnologyresources.com
 complianceportals.com
 compujuank.com
 conceitualalbuns.com.br
-confeitariashow.com.br
 congreso-cimu.com
 connecting.autos
 cookiestart.pl
@@ -247,10 +248,9 @@ creativecollectionbyshon.com
 creoantofagasta.cl
 crowneducationalconsultancy.com
 cruahop.shop
-cs2.acsdomaindsadas.click
 csbmy02344.workers.dev
 csekokavehaz.hu
-cv428350.tw1.ru
+csgroup.host
 cy487295.tw1.ru
 cykoqazu.workers.dev
 cyrus.anondns.net
@@ -260,7 +260,6 @@ dancingfish.asia
 dandori.co.jp
 danialterations.com
 danieldewaldgreyfeathers.com
-darkoobedu.ir
 dasdase13.icu
 dataempireusa.com
 dc30yzl72d.workers.dev
@@ -336,6 +335,7 @@ farnostcelakovice.net
 fast.lzgqin.cc.cd
 fc.rsqqq.top
 fearlessaffiliate.com
+fehiwy.workers.dev
 felelossegbiztosito.hu
 feltregas.it
 feriafpelche.es
@@ -360,6 +360,7 @@ foralltheplayers.co.uk
 forge-ridge.com
 forteprecatorios.com.br
 fox-maintv.club
+fplsoznh.brian-mcdermott.com
 fracino.cl
 franceprosecurite.fr
 franken-consulting.org
@@ -379,8 +380,6 @@ gaezskoynbrisk.com
 galleryparian.ir
 ganoreyac.com
 gateformykdsdf.com
-gehyby.workers.dev
-genuskox.biz
 gerts.fund
 getgoapi.cc
 ggresp.com
@@ -389,6 +388,7 @@ gixxipi9823.life
 glacial-bloom-wren-croaon.life
 glolsbs.top
 glosamarina.com
+gn.77tuna.org
 go32ip.74rcu0ntwgvtpzn.icu
 godewase.workers.dev
 gohaxydi.workers.dev
@@ -416,9 +416,7 @@ hawramanat.ir
 healskills.com
 hel1uuve.asesoriabamk.com
 helium10.coupons
-helsingoercarpenter.dk
 helvion.cc
-hetadvieskantoor.nl
 hinsonproductions.net
 hipposonline.com
 histobrand.com
@@ -465,6 +463,7 @@ ip-vm.vercel.app
 ip.faicai888.cc
 ipcheck-vm.vercel.app
 ipraywithjoy.org
+ir.hg77.org
 it-solutions-bayern.com
 jaassen.lol
 jacintamwendemaweu.com
@@ -478,7 +477,6 @@ jeremypeckham.com
 jewelsbranch.com
 ji.6r6r6.org
 jkonnet.buzz
-jokekipi.workers.dev
 jonebo.workers.dev
 joqito.workers.dev
 joseluislacasta.com
@@ -490,6 +488,7 @@ js-static.icu
 junglesurvivalacademy.com
 juplterairdrop.cfd
 jvpburgenland.at
+jx.78royal.org
 jyxigy.workers.dev
 k8y.777wins.org
 kaervangmaterialer.dk
@@ -511,6 +510,7 @@ kidssmile.pl
 kiln-skioi-c29up.com
 kingsrxandwellness.com
 kitara.es
+kixixoty.workers.dev
 kmxvvkoq.enlineaempresarial.com.mx
 komindekeet.nl
 konradkerz40000.work
@@ -574,10 +574,8 @@ luqiuid91.com
 lustkliondruara.space
 luzekily.workers.dev
 lydneytownafcyouth.co.uk
-m.6r6r6.org
 macfilecloud8.com
 mafchik.lobby-join.cc
-maggi7428.workers.dev
 magkaisacentre.org
 magnuslegal.in
 mainpipeline.co.uk
@@ -588,7 +586,6 @@ manana.com.au
 manaou.de
 mandarinclassroom.hk
 manuelan.quest
-marinnamilitary.workers.dev
 marnadefinite.workers.dev
 martiaart.com
 marxist.se
@@ -627,7 +624,6 @@ mog-battle-with-rabbids.cc
 moje.cieplo.info
 mondknoten.de
 mondkompass.com
-monkeydigital.asia
 montrex.cc
 moodesign.mu
 mooivoorjou.nl
@@ -644,19 +640,18 @@ mythsandarts.com
 myymk.cc
 n.6r6r6.org
 n2.73kcom.org
-n9.666iapk.net
-nagukato.workers.dev
 nahr-iq.org
 namecheaps.duckdns.org
 naqydy.workers.dev
+nedac84898.workers.dev
 neecees.com
-networkness.com
 neumanab.se
 neurod.nl
 new-mexico.club
 new.lzgqin.cc.cd
 new.sunstonewell.info
 newlifenutaralbd.com
+news.pieset.co
 newsbhadas4india.com
 nextlanding.net
 nf.777wins.org
@@ -665,11 +660,11 @@ nicolas3007.online
 nikabeautyclinic.com
 nikolatesla.website
 njpvt59617.workers.dev
-noa.666iapk.net
 noblissime.ch
 nokumehy.workers.dev
 norkapi41.icu
 norrykilu231.digital
+notable240.workers.dev
 nothingnew.wpengine.com
 novamostra.com
 novin-sakht.ir
@@ -709,6 +704,7 @@ paleanchor.com
 papatty.ir
 pardazeshsazan.com
 patduggan.com
+patratrimulia.com
 pbi-export.com
 pelakhaft.ir
 personaltrainer-wiesbaden.com
@@ -727,7 +723,6 @@ playenglishworld.com
 pleasantsims.com
 poalmcreorvelvet.pro
 podclubmedia.com
-podnamiot.eu
 powergas.uk
 princess-gem.com
 pro.oakcanticle.co
@@ -748,6 +743,7 @@ pssafety.net
 publisher99.com
 pulver-sandro.net
 q.73kcom.org
+qinarifi.workers.dev
 quadhubtrade.com
 qucifopa.workers.dev
 quentianel.mom
@@ -781,6 +777,8 @@ ridge-goalmduix.pro
 rik-meijer.com
 rizymoka.workers.dev
 rmhbartels.net
+ro.77tuna.org
+roachtraffic.cc
 robinsoo.lol
 rockandsearealestate.com
 rocks56.com
@@ -791,8 +789,7 @@ ronak-rooygostar.com
 roofmartlk.com
 rosman.biz
 rovgruien.pro
-rtplive-miliarbet.online
-ruihankj.top
+rs.78royal.org
 s8.77777w.net
 saanvipeddi.com
 saetspa.it
@@ -803,6 +800,7 @@ saintpatricksanglicanchurch.org
 sajadshahrokhi.com
 salihtatlicifoundation.org
 salonbeautifulinc.net
+sam-tech.pro
 sangagroup.com
 sap.ir
 sapphireilla.workers.dev
@@ -818,6 +816,7 @@ sdermedique.com
 se-rayapi.com
 seainternationalcr.com
 searcomgroup.com
+sekuluhi.workers.dev
 senturkvincyapi.com
 seo.codesmithsystems.com
 sep.71k.org
@@ -863,6 +862,7 @@ speedpi12321.xyz
 spiohop.shop
 sqwas.shapelie.com
 ssl.ftp21.cc
+st-attr.robstuder.org
 st.onlinefc.top
 starkids.cz
 stat.bestcompliance.net
@@ -884,7 +884,6 @@ sunupackaging.com
 suonheoxongkhoi.com
 sussland.de
 sweepin.fr
-sxtbd04071.workers.dev
 symbol-foru.rest
 szcx.uk.com
 t-rent24.de
@@ -898,7 +897,6 @@ tarrantcountyaccidentandinjuryattorneys.com
 tasteinplace-dasos.at
 tastytwat.com
 tatovlog.top
-te.666iapk.net
 technogeek.es
 teculse.click
 tedjcreation.com
@@ -914,12 +912,12 @@ texasflamebd.com
 tftp2.sh
 theatredureel.fr
 thebigjackpotcasino.net
-thefoodsauciety.co.uk
 thegreathopembchurch.org
 thematrixcore.net
 theonenightstand.shop
 theparkcompanies.com
 thepiratefest.com
+therapygeorgia.com
 thetenthman.org
 thetruthaboutmercedes.com
 thetsm.in
@@ -933,6 +931,7 @@ tocespecialpresentes.com.br
 tochnomirzasuka.com
 toivio.info
 toldosortizrd.com
+toletyno.workers.dev
 toobusy2clean.com
 topindiandetectiveagency.com
 topsmagnificentgrade.com
@@ -943,11 +942,11 @@ trilliot6776.icu
 tritonplus.co
 trokuni412.icu
 tronide.cc
+trywebdesign.com
 tumiveme.workers.dev
 tuurintupa.fi
 twiincandle.com
 udrzba-sprava.cz
-uduka.duckdns.org
 uhg.edu.py
 ullna.com
 ultimateworkwear.co.uk
@@ -962,7 +961,6 @@ utbyvesten.se
 utensileria-modenese.com
 utiyn.com
 v.73kcom.org
-v75.666iapk.net
 vale-quaiyn-jtbn8.life
 valepublicitando.com
 vanifilms.com
@@ -986,11 +984,13 @@ vivid-roam-cove-gleon.life
 vividstreaming.live
 vmi3289146.contaboserver.net
 vnbj66.com
+vonnyliable.workers.dev
 vormix.nl
 voyag413.xyz
 vr.6r6r6.org
 vyhyculo.workers.dev
 w4.77tuna.org
+w8cyew46.metricsdataapi.com
 wakalayasm.forum
 wartasentral.com
 was.cantdown.su
@@ -1080,7 +1080,6 @@ www.f9p0blhu2vw6rkwo.com
 www.fracino.cl
 www.gbgzdxue8l3ajj7syni.info
 www.greenwellhealthcare.com
-www.gtw.kiwi.nz
 www.h4sowoxr64rsj5-cpsuhd.cc
 www.hu8diut42ogfnb6d.cc
 www.i1m7mt66vo69eakuu74e.cc
@@ -1150,11 +1149,10 @@ www.z6dotx17rqtu6wrngq4.com
 www.zcyw7mxz6r0jzuvdddrlor.net
 www.zfu4n4kxgmx32hsqg.cc
 www.zrs7b8boubf9y-b1.net
+wy.78royal.org
 x5u.6r6r6.org
-xatodaka.workers.dev
 xetienchuyenvungtausaigon.com
 xg1iu5w5.asesoriamerenlinea.com
-xomasaty.workers.dev
 xorados.com
 xuxasi.workers.dev
 xwaycomunicacao.com.br
@@ -1169,6 +1167,7 @@ yisan.cz
 ym8ey0u71i.workers.dev
 ymkkf.com
 ytl99.vip
+z0wbdk.5tr.org
 zalupka.website
 zaqowe.workers.dev
 zejax.cz
