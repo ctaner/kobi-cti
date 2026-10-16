@@ -1,9 +1,8 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-15 23:03 UTC
+# Üretildi: 2026-10-16 04:26 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
-01sz1h97.cita-top.com
-1.me
+0jye42ba.socop.space
 1774colossal.workers.dev
 178-128-196-79.sslip.io
 1vv1sa837.life
@@ -26,7 +25,9 @@
 2n2iket3.alkaleejia.wiki
 360s-travel.com
 3gcsxtjl.beterbewegenmetyael.blog
+3pink.workers.dev
 43cycles.com
+48mko9hrqrdwuvj.icu
 4jumps.it
 4n5kdeb4ss.workers.dev
 520karla.workers.dev
@@ -58,8 +59,6 @@ akesu.voteable.live
 alaradyre.com
 alessandracalheira.com.br
 algdha.biz
-alkaleejia.com
-alkaleejia.wiki
 allanpe.biz
 allevi8.life
 alquilovan.cat
@@ -155,6 +154,7 @@ buffalobr.duckdns.org
 buffalobrbk.duckdns.org
 buhu.site
 burb.space
+c.888-fw.com
 candxai.com
 capitpl.biz
 carolynhannaford.com
@@ -173,7 +173,6 @@ chemiewater.com
 chloesteph.com
 chocolaterie-gayraud.live
 cisycy.workers.dev
-cj.77777w.net
 cjjjmoney.duckdns.org
 closegate21.xyz
 cloudyredirect.online
@@ -196,8 +195,6 @@ crowneducationalconsultancy.com
 csbmy02344.workers.dev
 csgroup.host
 curihep.wrdn.su
-cykoqazu.workers.dev
-cz.77777w.net
 daftarbolapro.click
 daotaodaynghespa.com
 dash9926.space
@@ -209,7 +206,6 @@ deltga.biz
 demo.ilan-muffato.fr
 deolano.es
 devverif.info
-dhi2aazeft.workers.dev
 diseazhjw.cloud
 dkz.77tuna.org
 documentrev.com
@@ -252,6 +248,7 @@ fdsion.biz
 fehiwy.workers.dev
 feloconstruction.com
 fern-roam-moss-luio.pro
+fg.888-fw.com
 fide45felhs.com
 finalend.serveblog.net
 flawlessgradecheered.com
@@ -276,6 +273,7 @@ gastonrenard.com
 getgoapi.cc
 girlsonpi823.life
 gixxipi9823.life
+gkalx2i1c9.workers.dev
 glacial-bloom-wren-croaon.life
 glacial-sketch-otter-triis.live
 globgal.biz
@@ -313,8 +311,8 @@ i.gckni.com
 ibespai.es
 icon789.life
 igambiloyouth.or.tz
+ih.888-fw.com
 imamat-static.theismaili.live
-importdoortodoor.id
 incoming.rent
 incop.zenithtrack.cc
 indigenoushomeloans.com
@@ -326,7 +324,6 @@ indoggtangguh.space
 indoslotride.icu
 indoslots.click
 infiht.biz
-internetandcableservicesatgadget.com
 internetmissouri.com
 intersectsoftware.space
 ip-vm.vercel.app
@@ -334,6 +331,8 @@ ip.faicai888.cc
 ipcheck-vm.vercel.app
 iq.7dewaslot.org
 ir.hg77.org
+iscc.com.mx
+iy.888-fw.com
 jaassen.lol
 james1919.ooguy.com
 janubhavtaxsolutions.com
@@ -360,6 +359,7 @@ kiqaduqe.workers.dev
 kitara.es
 kixixoty.workers.dev
 klauschtransporte.de
+km0gj1ovc5.workers.dev
 kmxvvkoq.enlineaempresarial.com.mx
 konradkerz40000.work
 kozgroup.ca
@@ -368,7 +368,6 @@ kx4z8st8.escritoriovirtualasesor.com
 l4.777wins.org
 l9rm22ww1r.workers.dev
 lab-grown-diamond-ring.com
-lagenteruzafa.es
 lavendertome.co
 lelyweby.workers.dev
 lemontv.tv
@@ -383,6 +382,7 @@ lkol.dyn
 llm.lzgqin.cc.cd
 longslimpi.life
 lorrisnopro.co
+lqfyq28438.workers.dev
 luck.blacklabelfremont.com
 lugeka.workers.dev
 lunazh.ec-sky.click
@@ -463,6 +463,7 @@ nextlanding.net
 nexujcs.biz
 nf.777wins.org
 ngeyetrekkingsafaris.com
+ninypy.workers.dev
 nl.78royal.org
 nokumehy.workers.dev
 norkapi41.icu
@@ -523,6 +524,7 @@ pulsge.biz
 q.71k.org
 q16.71k.org
 qaketyzo.workers.dev
+qatinaci.workers.dev
 qh88n.com
 qinarifi.workers.dev
 quaintailey.workers.dev
@@ -536,7 +538,7 @@ ramnarayantharu.com.np
 rarechristianbooks.com
 rc.7dewaslot.org
 rc0.flavorroute.cc
-re.77777w.net
+rcn2co2t.socop.org
 readinghabit.com.au
 readinkbooks.com
 redlable1.website
@@ -550,7 +552,6 @@ renaissancebooks.co.nz
 rerrioara.live
 rh-ansible-prd.com
 ridge-goalmduix.pro
-rizymoka.workers.dev
 ro.77tuna.org
 roachtraffic.cc
 robotpopcornmachine.com
@@ -564,7 +565,6 @@ rs.78royal.org
 rudolfsteinerbookcentre.com.au
 ruimukj.top
 s2.7dewaslot.org
-s8.77777w.net
 sa.888-fw.com
 saintpatricksanglicanchurch.org
 sam-tech.pro
@@ -603,7 +603,6 @@ smartaggermillenialmarketers.com
 snacky-time.club
 sodsce.biz
 soft.unpkg.info
-sojf56jebe.workers.dev
 songtichvietmy.com
 sparfk.biz
 speedpi12321.xyz
@@ -623,7 +622,6 @@ superoom.life
 superwin4d.online
 swadeshi-brands.com
 synerfy.biz
-szcx.uk.com
 t9.77tuna.org
 t9.86idn.com
 tabbyottercub.com
@@ -631,7 +629,6 @@ tacom.site
 tamuguga.workers.dev
 tarrantcountyaccidentandinjuryattorneys.com
 tatovlog.top
-tejuvila.workers.dev
 tenniskurs-zollikon.ch
 tepuga.workers.dev
 tftp2.sh
@@ -642,6 +639,7 @@ thistle-godbriaum.pro
 thjduywf.asociadospacifico.com
 thriveclubar-mx.icu
 thunderprive.click
+ti.888-fw.com
 tjsmedical.com
 tkkg.live
 tokohoki78jp.live
@@ -669,6 +667,7 @@ unitsol.nl
 usual-pixx12.digital
 vale-quaiyn-jtbn8.life
 vangrd.biz
+vazupi.workers.dev
 vedfex.biz
 veldty.biz
 velvet-otter-glagceis.life
@@ -705,6 +704,7 @@ whitefoxrarebooks.com
 wohepuhy.workers.dev
 workworm1412.buzz
 wosback.cc
+wsip-72-194-152-157.ph.ph.cox.net
 wtbgr96212.workers.dev
 wuntred.com
 www.0jy0f773x1e08b68h.net
@@ -867,8 +867,6 @@ www.schoonerbooks.com
 www.seodata.click
 www.shinyowlbooks.com.au
 www.shopbeautywoodbooks.com
-www.simonacheli.com
-www.solis-srl.com
 www.somcaregt.com
 www.stroudbooks.com
 www.sx3cjniwo1bmtqs0vlj-va2f.app
@@ -910,19 +908,18 @@ x0ihfh5u.asesoriamerenlinea.com
 x2sj7x7t.diorauction.com
 x5u.6r6r6.org
 xanaze.workers.dev
-xg1iu5w5.asesoriamerenlinea.com
 xolelavi.workers.dev
 xuxasi.workers.dev
-xy.73kcom.org
 y.71k.org
 y1.6r6r6.org
 year.calvinpreschooloffice.com
 yenimahallepirsultan.org.tr
 yielxgd.biz
+yk.888-fw.com
 ytl99.vip
 z0wbdk.5tr.org
+zadivy.workers.dev
 zalupka.website
-zaqowe.workers.dev
 zehrademirel.com
 zen-agent-oil-comic.xyz
 zevyza.workers.dev
@@ -933,4 +930,5 @@ zr.78royal.org
 zsfith.biz
 zv.77tuna.org
 zxcwork.com
+zylobeza.workers.dev
 zzyowym8yb.workers.dev
