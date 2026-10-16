@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-16 19:32 UTC
+# Üretildi: 2026-10-16 22:49 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 0bfor2xlm0.workers.dev
@@ -51,6 +51,7 @@ admin.msxfweb.net
 aescenavientoymarea.es
 ag971.icu
 agent.cloudfiledisk.com
+ah.88bravo.com
 ai.86idn.com
 aj.7dewaslot.org
 ajaibbetslots33.icu
@@ -66,7 +67,6 @@ alwires.com
 amanahtoto.ae.org
 amanahtoto.cc
 amanahtotoasli.us.com
-amanahtotolite.de.com
 amanahtotolive.de.com
 amanahtotolust.us.com
 amanahtotomobile.de.com
@@ -130,7 +130,6 @@ bi.86idn.com
 biggerworldclassstandard.com
 biggzlar.uber.space
 blog.andrewlalchan.co.uk
-blog.donitesmithy.info
 blossomandbloom.life
 bocmf50748.workers.dev
 bookrackjackson.com
@@ -179,7 +178,6 @@ comptabilitejoseefortin.com
 confettibooks.com
 conntent.s4solar.co.nz
 corelaunchhj.click
-covalenthomes.com
 cp2.7dewaslot.org
 cpywl55758.workers.dev
 crahft.biz
@@ -199,7 +197,6 @@ darkord.com
 dash9926.space
 davidameyer.com
 decachemir.com
-decoma.workers.dev
 deer.albaikmenuonline.com
 deltga.biz
 demo.ilan-muffato.fr
@@ -264,6 +261,7 @@ fluoriterefrectory.info
 focopxs.biz
 fog.blacklabelfremont.com
 forgevaultstead.live
+foroxito.workers.dev
 foxglove-300circus.space
 fplsoznh.brian-mcdermott.com
 fresok.top
@@ -360,6 +358,7 @@ kj.888idrcatchy.org
 klauschtransporte.de
 km0gj1ovc5.workers.dev
 krilion.io
+l.7sot.org
 l.888idrcatchy.org
 lab-grown-diamond-ring.com
 lagbout6ouisft01.duckdns.org
@@ -384,6 +383,7 @@ lf.888idrcatchy.org
 liavruizskioo.pro
 libraryadvances.com
 lindgk.biz
+linedeci.workers.dev
 lorrisnopro.co
 lqfyq28438.workers.dev
 luck.blacklabelfremont.com
@@ -465,7 +465,6 @@ ngeyetrekkingsafaris.com
 ngjhgghdsftujfdshdhsguge.top
 ninypy.workers.dev
 nl.78royal.org
-nokumehy.workers.dev
 noon.cafemartinezsa.com
 northern-ukulele.secureonline.space
 notable240.workers.dev
@@ -482,6 +481,7 @@ odotima.biz
 office-fit.co.uk
 one-vv7837.life
 ou.78royal.org
+ouiucyh3.web-optimizer.us
 overcoynode.click
 p-az.it
 pacificachicago.com
@@ -540,7 +540,6 @@ quaintailey.workers.dev
 r.78royal.org
 r1wnbepa.life
 r4.86idn.com
-r82uywn7.mbaconsultingus.net
 raghavroadlines.com
 rarechristianbooks.com
 rc.7dewaslot.org
@@ -579,7 +578,6 @@ santagghk.space
 sanwariyaxch.live
 saswsasyifanyi.icu
 satta-king-11.site
-schinner.icu
 schmuckaufwunsch.de
 scripture.life
 sdfaswasleidian01.top
@@ -623,13 +621,11 @@ superoom.life
 superwin4d.online
 swadeshi-brands.com
 synerfy.biz
-t9.77tuna.org
 t9.86idn.com
 tacom.site
 tamuguga.workers.dev
 te1egsdxinn.top
 te1eguuxsnrnn.top
-tepuga.workers.dev
 tgbnh.icu
 theglobetrotters.de
 therapygeorgia.com
@@ -672,6 +668,7 @@ veldty.biz
 velvet-otter-glagceis.life
 velvetreoskslaon.pro
 ventuxe.biz
+vezlp9pr.amanahnaga.com
 vfrtegx.biz
 vially.consulting
 videntecuranderoafricano.com
@@ -737,6 +734,7 @@ www.burb.space
 www.chaparralbooks.com
 www.chathambookseller.com
 www.clearoriginxf.click
+www.cloudguild.tn
 www.comoshops.com
 www.compleatscholar.com
 www.confettibooks.com
@@ -747,6 +745,7 @@ www.crossroadbookstore.com
 www.daveshootsbookseller.com
 www.diasparbooks.com
 www.diatropebooks.com
+www.diginas.fr
 www.diversitybooks.com.au
 www.elsefinebooksellers.com
 www.fosterbooks.co.uk
@@ -840,13 +839,14 @@ yiygdfanwesyi.top
 yiyuxxfanyi.top
 yk.888-fw.com
 ytzsadguge1.top
+yutpn23730.workers.dev
 yv.888idrcatchy.org
 z0wbdk.5tr.org
 zadivy.workers.dev
 zambraao.lol
+zcuar44747.workers.dev
 zehrademirel.com
 zen-agent-oil-comic.xyz
-zevyza.workers.dev
 zidiiyjrfsyeudjr.b1r6p3q8.live
 zoastklaeon.pro
 zoldvilag.hu
