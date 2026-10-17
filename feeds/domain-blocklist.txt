@@ -1,25 +1,23 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-17 12:10 UTC
+# Üretildi: 2026-10-17 15:30 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 0bfor2xlm0.workers.dev
 0jye42ba.socop.space
 100-ho.com
 1212resort.com
-1774colossal.workers.dev
 178-128-196-79.sslip.io
 1kunstwerk.nl
 24emergencyelectricalservices.co.uk
 2h7bybpbc521sa1hbmf0qo.beer
-2n2iket3.alkaleejia.wiki
 360s-travel.com
+39rwd49tgi9.xyz
+3alzf8froh.workers.dev
 3gcsxtjl.beterbewegenmetyael.blog
 3pink.workers.dev
 48mko9hrqrdwuvj.icu
 4dhwf8bz.suzukibandung.co
 4q7l3aauklpq0bj86rdnvr.beer
-520karla.workers.dev
-5fe48034.roseanne.id
 69bs66ln.socop.org
 75.97.205.84.res-cmts.blm.ptd.net
 77nm4x7se1.workers.dev
@@ -28,12 +26,11 @@
 805380ed.cyclingjordan.co
 8hxp86s4.agpoferroli.nl
 8y2e2ngor1.workers.dev
+9egu923jfsdf.pro
 9ry5wan8qu.de
 9wqldolh.amanahjili.com
 a-frame-marisa.com
 a3f5sclr.stichtingseptember.locker
-abubra.jo3.org
-abubra.zanity.net
 aciarmedinadental.com
 adlibentertainment.com.au
 admin.msxfweb.net
@@ -99,6 +96,7 @@ aulaprogram.com
 auroramyanmar.com
 author-author.net
 avaped.com.br
+awg5bzdo.escritoriovirtualasesor.com
 axidom.biz
 azurecolorful.workers.dev
 b.7sot.org
@@ -128,6 +126,7 @@ befdon.biz
 bellows.pics
 beratungspraxis.at
 berelax.com
+beterbewegenmetyael.blog
 betibaky.workers.dev
 betterrestores.com
 bhumivista.com
@@ -153,7 +152,7 @@ bsasdxdaqguge.top
 bsdaxguge.top
 bssdazguge.top
 btjwv9qbhw.workers.dev
-buhu.site
+budohiwy.workers.dev
 buillingereio.com
 businesscourse.id
 c.888-fw.com
@@ -201,7 +200,6 @@ complianceportals.com
 comptabilitejoseefortin.com
 confettibooks.com
 conntent.s4solar.co.nz
-cp2.7dewaslot.org
 cpywl55758.workers.dev
 crahft.biz
 creativecameracompany.co.uk
@@ -230,9 +228,11 @@ dentoessencern.com.br
 deolano.es
 deriasociados.com
 detailmasters-calgary.ca
+dfisjqef0s.app
 dg.888idrcatchy.org
 dgzverandas.nl
 diginas.fr
+digitallightandsound.com
 dilruire.com
 diorauction.com
 disnasaskdjaxksjgg01.top
@@ -269,7 +269,6 @@ egakqe36ey.workers.dev
 ejtteyte.com
 ek.86idn.com
 embed-api.joelbaueronline.com
-eo.7dewaslot.org
 eortxnrra.com
 epi.77777w.net
 eporiaeal.com
@@ -288,6 +287,7 @@ f200.com.br
 faircares.org
 falaqnurserybd.com
 fallaportdesilla.org
+fallbackmaximidfjdsia.com
 fdsion.biz
 feedafoundation.org
 feloconstruction.com
@@ -325,6 +325,7 @@ fungalmet.org
 fxplus.com.tr
 fyumg68489.workers.dev
 g.obrn.cc
+g3.8mytogel.org
 gaezskoynbrisk.com
 gametyzy.workers.dev
 gastonrenard.com
@@ -355,6 +356,7 @@ grelectricidad.es
 greylabeltechnologies.com
 grofwgh.biz
 grove-fiis-y7ua8.pro
+gu.8mytogel.org
 gugogijy.workers.dev
 guiacms.com
 guillembaches.com
@@ -362,7 +364,6 @@ gulayoguz.com
 gulsumguralmuzesi.com
 gwgamior.com
 h3dparts.com
-h5x6ijt1.kulonprogo.org
 hahhong.com
 hail.cocova.co
 hamrahkooh.com
@@ -394,6 +395,7 @@ hoteldelapaixalbert.com
 hotuehett.com
 hruieeoefeor.com
 hsjornoboetotl.com
+hudicigu.workers.dev
 huzylati.workers.dev
 hykonmt.com
 i.gckni.com
@@ -403,9 +405,9 @@ iflautisti.com
 igambiloyouth.or.tz
 ih.888-fw.com
 ijdaiajsidjfif.cloud-ip.cc
+ikgiu89312.workers.dev
 ilmondodeiforklift.it
 ilovegraalmueritz.de
-incop.zenithtrack.cc
 index.searchchinas.top
 indigenoushomeloans.com
 indigo-finch-misgoaen.life
@@ -430,7 +432,6 @@ italleatgeeash.com
 iuriqa.legal
 iy.888-fw.com
 j.88mdc.org
-jaassen.lol
 jacarandabymar.com
 jagostinopc.com
 jamesgolden.com
@@ -508,7 +509,6 @@ lincolnpublishers.us
 lindgk.biz
 linedeci.workers.dev
 loizena.com
-lorrisnopro.co
 loveurselfperu.com
 lp.imersaosevenx.com.br
 lppi.it
@@ -548,6 +548,7 @@ mini-kit.nashstuder.com
 minibotmedia.com
 mirywa.workers.dev
 missietricky.workers.dev
+mofza12619.workers.dev
 moleroos.pro
 momdum.biz
 mona-fresh.eu
@@ -589,6 +590,7 @@ news.pieset.co
 nexujcs.biz
 nfskin.com
 ngeyetrekkingsafaris.com
+ngi.88idn.net
 ngjhgghdsftujfdshdhsguge.top
 ninypy.workers.dev
 nlspronos.fr
@@ -643,6 +645,7 @@ pizza-primavera-wiesbaden.de
 plummanon.workers.dev
 podhomestasmania.com
 popeak.biz
+pozalogi.workers.dev
 prediksihk.forum
 primofa.biz
 pro.jasperwater.info
@@ -692,7 +695,6 @@ rakeshjesadiya.com
 randlain.mom
 rarechristianbooks.com
 rarzar.com
-rc.7dewaslot.org
 rcn2co2t.socop.org
 rcyjc64bglyz21olcgtt.beer
 readinghabit.com.au
@@ -727,6 +729,7 @@ rockadventures.com.au
 rokkyho32.life
 ronitmolko.com
 rotary4littlehearts.org
+roxogefu.workers.dev
 rshtgesa.com
 rtohomesandland.com
 rubencabanillas.site
@@ -734,7 +737,6 @@ rudolfsteinerbookcentre.com.au
 rumahhantu.id
 russellcourthotel.ie
 ryhigyve.workers.dev
-s2.7dewaslot.org
 sa.888-fw.com
 sadsxsayiwaiwai.icu
 sam-tech.pro
@@ -760,6 +762,8 @@ sellermobile.com
 seo.codesmithsystems.com
 serviettebedrucken.de
 sfg20tip6u.workers.dev
+sfoig93rafa.io
+sg9sj8ifda.com
 shahrekaleskeh.com
 shopsavewithchelsea.com
 sicilyfoodmannino.it
@@ -784,7 +788,6 @@ spanishlessonslosangeles.com
 sparfk.biz
 speeoporj.com
 spillets.com
-sqhbp95699.workers.dev
 squareseafoodtrading.com
 srroolreoaar.com
 ssdjskdcasdjafdfkgugellq01.top
@@ -808,6 +811,7 @@ sweetheartcare.com.au
 sydihypy.workers.dev
 synerfy.biz
 t.88mdc.org
+t7.8mytogel.org
 t9.86idn.com
 tacom.site
 tahinhtfenwimi.com
@@ -874,6 +878,7 @@ usefilebox.com
 usual-pixx12.digital
 uzickanedelja.com
 v01.88bravo.com
+v61.8mytogel.org
 va.8mytogel.org
 vangrd.biz
 vasservending.com
@@ -911,6 +916,7 @@ vriendenvandeknau.nl
 vtoodor.biz
 vx.88bravo.com
 vyaparapp.xyz
+w9triu9w8vs.ro
 wantinstitute.org
 wasp.blinqueofficial.com
 wassksdyiwaiwai01.top
@@ -980,7 +986,9 @@ www.gloversbookery.com
 www.greensleevesbooks.co.uk
 www.gwenfoss.com
 www.hoffmansbookshop.com
+www.iuriqa.legal
 www.ivyridgebooks.com
+www.jacarandabymar.com
 www.jlawton.com
 www.kathmandubooks.com
 www.kellerbooks.com
@@ -1001,15 +1009,18 @@ www.oddballbooks.com
 www.oldscrolls.com
 www.oldwestbooks.com
 www.patbookman.net
+www.penyabarcelonistavilanova.cat
 www.puddletownbookshop.co.uk
 www.rarebookshonolulu.com
 www.rarechristianbooks.com
 www.rbookmark.com
 www.readinghabit.com.au
 www.readinkbooks.com
+www.reliancegranito.com
 www.remnantbooks.org
 www.renaissancebooks.co.nz
 www.resourcebooks.net
+www.ridgelineroofingandgeneralbuilding.co.uk
 www.robertsbookshop.com
 www.roundtablebooks.com
 www.rudolfsteinerbookcentre.com.au
@@ -1017,6 +1028,8 @@ www.sauconybookshop.com
 www.schoonerbooks.com
 www.shinyowlbooks.com.au
 www.shopbeautywoodbooks.com
+www.sicilyfoodmannino.it
+www.spanishlessonslosangeles.com
 www.stroudbooks.com
 www.theavocadopit.com
 www.thebooksend.com
@@ -1024,13 +1037,14 @@ www.thebooktique.org
 www.thelibrarium.com
 www.theridgebooks.com
 www.thewrightcollection.com
+www.ufa007.tv
 www.vagabondbooks.com
+www.vasservending.com
 www.vintage-books.com
 www.whitefoxrarebooks.com
 www.xmmtbxbackup3.com
 www.xmmtbxbackup4.com
 www.yeoldbookworm.com
-wywoba.workers.dev
 x0ihfh5u.asesoriamerenlinea.com
 x2sj7x7t.diorauction.com
 x5u.6r6r6.org
@@ -1060,6 +1074,7 @@ yocvn.top
 ytzsadguge1.top
 yutpn23730.workers.dev
 yv.888idrcatchy.org
+z.88mdc.org
 zadivy.workers.dev
 zakgz07369.workers.dev
 zambraao.lol
@@ -1080,4 +1095,3 @@ zoo-station.com
 zsfith.biz
 zubyretu.workers.dev
 zylobeza.workers.dev
-zzyowym8yb.workers.dev
