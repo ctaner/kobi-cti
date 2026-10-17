@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-16 22:49 UTC
+# Üretildi: 2026-10-17 04:20 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 0bfor2xlm0.workers.dev
@@ -23,23 +23,26 @@
 1wxdnt.life
 1wzgaf.life
 1wzvhu.life
+2h7bybpbc521sa1hbmf0qo.beer
 2n2iket3.alkaleejia.wiki
 360s-travel.com
 3gcsxtjl.beterbewegenmetyael.blog
 3pink.workers.dev
 48mko9hrqrdwuvj.icu
 4dhwf8bz.suzukibandung.co
+4q7l3aauklpq0bj86rdnvr.beer
 520karla.workers.dev
 5fe48034.roseanne.id
 6f3m8.icu
-6stmmehy.mdaasesorias.com.mx
 7-elang.space
 77nm4x7se1.workers.dev
 7877group.icu
 789bet.tennis
 7f8684d4.keratontoto.life
 7k.iakmialor.web.id
+805380ed.cyclingjordan.co
 8hxp86s4.agpoferroli.nl
+8y2e2ngor1.workers.dev
 9ry5wan8qu.de
 9wqldolh.amanahjili.com
 a3f5sclr.stichtingseptember.locker
@@ -67,11 +70,6 @@ alwires.com
 amanahtoto.ae.org
 amanahtoto.cc
 amanahtotoasli.us.com
-amanahtotolive.de.com
-amanahtotolust.us.com
-amanahtotomobile.de.com
-amanahtotonice.de.com
-amaranthlizzie.workers.dev
 amber-weave-otter-luor.pro
 amirhosseinfarzam.ir
 andala.life
@@ -82,7 +80,6 @@ api.microsoftstorapi.com
 archipelagos.nyc
 ardenpeaksolutions.com
 area20bank.live
-armwrestlers.club
 arsplaywin.space
 asajkdjkxsiasdjaguge.top
 asases.com
@@ -102,6 +99,7 @@ auroramyanmar.com
 author-author.net
 axidom.biz
 aztjt12345.wins8game.click
+azurecolorful.workers.dev
 backdoor.61116222b2.buzz
 backdoor.afribus.co
 backdoor.doyanslot.us
@@ -127,7 +125,6 @@ bggyafniwiadvaddfa.blog
 bgw.magn.space
 bhumivista.com
 bi.86idn.com
-biggerworldclassstandard.com
 biggzlar.uber.space
 blog.andrewlalchan.co.uk
 blossomandbloom.life
@@ -149,11 +146,11 @@ buhu.site
 burb.space
 c.888-fw.com
 cadsacdsguge02.top
+candxai.com
 cap.camp-cantina.com
 capitpl.biz
 carmeluandgio.com
 carolynhannaford.com
-catloverzz.club
 cdn.jsdelivr.net
 cdngsnsaassefgagugefanyi.top
 cfcher.biz
@@ -172,7 +169,7 @@ cjjjmoney.duckdns.org
 clevershop.nl
 clsaty.biz
 cobalt-lark-gleopprioor.pro
-commonhedgehogs.com
+code.nvc-info.beer
 complianceportals.com
 comptabilitejoseefortin.com
 confettibooks.com
@@ -185,9 +182,9 @@ craving.life
 creativecameracompany.co.uk
 creatorsmedianetwork.com
 cricnews247.com
-csgroup.host
 cup.blinqueofficial.com
 curihep.wrdn.su
+cyclingjordan.co
 d6.76k.org
 daasxzdwqaguge01.top
 daftarbolapro.click
@@ -202,6 +199,7 @@ deltga.biz
 demo.ilan-muffato.fr
 deolano.es
 dg.888idrcatchy.org
+diorauction.com
 disnasaskdjaxksjgg01.top
 dkz.77tuna.org
 dome.beatdropkec.com
@@ -230,6 +228,7 @@ edgscan.live
 edsh.edsky.click
 edufreebie2.com
 edusim-solutions.com
+egakqe36ey.workers.dev
 ek.86idn.com
 embed-api.joelbaueronline.com
 en.skep.life
@@ -249,6 +248,7 @@ fehiwy.workers.dev
 feloconstruction.com
 fern-roam-moss-luio.pro
 fg.888-fw.com
+fide45felhs.com
 financiales-groupe.com
 firstagrotech.com
 fisecu.workers.dev
@@ -259,14 +259,16 @@ fliorkfliixsable.pro
 flreaow.click
 fluoriterefrectory.info
 focopxs.biz
+fog.beatdropkec.com
 fog.blacklabelfremont.com
 forgevaultstead.live
 foroxito.workers.dev
 foxglove-300circus.space
-fplsoznh.brian-mcdermott.com
 fresok.top
 funportal.live
+fyumg68489.workers.dev
 g.obrn.cc
+gaezskoynbrisk.com
 gametyzy.workers.dev
 gastonrenard.com
 gbe6a8fd5w.workers.dev
@@ -277,7 +279,6 @@ glacial-bloom-wren-croaon.life
 glacial-sketch-otter-triis.live
 globgal.biz
 glpark.live
-gn.77tuna.org
 goalprojects.co.za
 goldenbuildersca.com
 goldenelevadores.com.br
@@ -306,6 +307,7 @@ hollow-forge-rook-guiyn.life
 holyst8strike.space
 hordafo.biz
 hostfeatures.website
+huzylati.workers.dev
 i.gckni.com
 icon789.life
 ict.888idrcatchy.org
@@ -314,6 +316,7 @@ ih.888-fw.com
 ilovegraalmueritz.de
 imamat-static.theismaili.live
 incop.zenithtrack.cc
+index.searchchinas.top
 indigenoushomeloans.com
 indigo-finch-misgoaen.life
 indjoswin.space
@@ -326,7 +329,6 @@ internetmissouri.com
 intersectsoftware.space
 iptext.de
 iq.7dewaslot.org
-ir.hg77.org
 iron.blacklabelfremont.com
 iscc.com.mx
 isemobil.de
@@ -340,7 +342,6 @@ jiramora.workers.dev
 jksdjkjs.cc
 johohu.workers.dev
 jorgemachado.org
-jrr.77tuna.org
 jx.78royal.org
 kajskdwekdxchsdgugefy02.top
 karrotrec-eli.com
@@ -353,7 +354,6 @@ khgzh40665.workers.dev
 kiln-gloix-kus3e.pro
 kiln-skioi-c29up.com
 kiqaduqe.workers.dev
-kixixoty.workers.dev
 kj.888idrcatchy.org
 klauschtransporte.de
 km0gj1ovc5.workers.dev
@@ -403,8 +403,6 @@ mast.jumpskyhigh.com
 mcdowellsemporium.com
 mcinbooks.com
 mdaasesorias.com.mx
-medicialanswers.forum
-medicinevacansies.work
 mellow-flicker-comet-pluio.pro
 mergentest15.live
 mergentest17.live
@@ -444,6 +442,7 @@ moneyhub-yuqefowotux.click
 moneyhub-zisizoqetih.click
 montgo.es
 mooimanmode.nl
+mp24jhoc.zorgwelbrabant.nl
 msarats.com
 msvci.com
 mta-sts.luminal.click
@@ -455,7 +454,6 @@ nan6o2er.allert-tech.com
 napoli-sanitary-ware.com
 navalandmaritimebooks.com
 nbcoachings.in
-nedac84898.workers.dev
 needleworkbooks.com
 netaruja.com.br
 neuralink-investmx.icu
@@ -467,14 +465,12 @@ ninypy.workers.dev
 nl.78royal.org
 noon.cafemartinezsa.com
 northern-ukulele.secureonline.space
-notable240.workers.dev
 notexists7beta.awesome.tiktoktrend.finder.luminal.luminalos.click
 nova-75.com
 ns1.kcsc.tf
 ns2.kcsc.tf
 ntrw.nl
 nttusoft.com
-nuv6c5c1.biolinkit.com
 ocdgga.biz
 ochre-quill-buindbaio.icu
 odotima.biz
@@ -483,12 +479,13 @@ one-vv7837.life
 ou.78royal.org
 ouiucyh3.web-optimizer.us
 overcoynode.click
+ozsae31509.workers.dev
 p-az.it
+p3nqewz0nzrfs50w24qpun.beer
 pacificachicago.com
 palm.blueridgekcmo.com
 pandya-system.com
 panificiomagda.com
-patratrimulia.com
 pcmacs.co.uk
 penpromedia.com
 pfalzhotel.live
@@ -519,7 +516,6 @@ qatinaci.workers.dev
 qazxswdguge02.top
 qegacihy.workers.dev
 qh88n.com
-qinarifi.workers.dev
 qmasedfxleidian.top
 qmasxwedmeitu.top
 qmazsdqatd.top
@@ -538,15 +534,18 @@ qmyxdfsyoudao.top
 qmzsxdmeitu.top
 quaintailey.workers.dev
 r.78royal.org
+r.88bravo.com
 r1wnbepa.life
 r4.86idn.com
 raghavroadlines.com
 rarechristianbooks.com
 rc.7dewaslot.org
 rcn2co2t.socop.org
+rcyjc64bglyz21olcgtt.beer
 readinghabit.com.au
 readinkbooks.com
 redlinebusiness.space
+relatedissy.workers.dev
 relmciarnlioix.life
 remnantbooks.org
 renaissancebooks.co.nz
@@ -557,20 +556,16 @@ rexastress.com
 rexlightpro.com
 ridge-goalmduix.pro
 rinano.workers.dev
-ro.77tuna.org
-roachtraffic.cc
 robotpopcornmachine.com
 robotretrofitters.com
 rockadventures.com.au
 rotary4littlehearts.org
-rs.78royal.org
 rudolfsteinerbookcentre.com.au
 ruimukj.top
 ryhigyve.workers.dev
 s2.7dewaslot.org
 sa.888-fw.com
 sadsxsayiwaiwai.icu
-sam-tech.pro
 samsdqafeiji.top
 samsungservicecenterabudhabi.com
 sansdesougou.top
@@ -585,7 +580,6 @@ sdxcsdeaguge.top
 sdxfdabiteliuanqi.icu
 seguro.delivery-cardapio.click
 sektorplay.space
-sekuluhi.workers.dev
 seleniteatrium.org
 seo.codesmithsystems.com
 seodata.click
@@ -608,7 +602,6 @@ sparfk.biz
 sqhbp95699.workers.dev
 squareseafoodtrading.com
 ssdjskdcasdjafdfkgugellq01.top
-st-attr.robstuder.org
 stabakon.de
 status.provided.space
 stayinthemeadowlands.com
@@ -620,23 +613,22 @@ summxif.biz
 superoom.life
 superwin4d.online
 swadeshi-brands.com
+sydihypy.workers.dev
 synerfy.biz
 t9.86idn.com
 tacom.site
 tamuguga.workers.dev
 te1egsdxinn.top
 te1eguuxsnrnn.top
+tftp2.sh
 tgbnh.icu
 theglobetrotters.de
-therapygeorgia.com
 theridgebooks.com
 thriveclubar-mx.icu
 thunderprive.click
 ti.888-fw.com
-tjsmedical.com
 tkkg.live
 tokohoki78jp.live
-toletyno.workers.dev
 tools.lumma.cy
 toplistgialai.com
 torpeduck.live
@@ -647,10 +639,11 @@ transvisiontech.com
 trekkernel4.com
 trexnd.biz
 tribot.co.uk
+trilliot6776.icu
 tropicaltelhas.com.br
-trywebdesign.com
 turquoise109.workers.dev
 u.86idn.com
+u50ichq2.amanahsuara.com
 u88aud.space
 ufath1.com
 uglycute.life
@@ -675,7 +668,6 @@ videntecuranderoafricano.com
 viorsoonlucid.life
 vistda.biz
 vivid-flicker-anvil-creoen.pro
-vonnyliable.workers.dev
 vonolet.wrdn.su
 votiguko.workers.dev
 vriendenvandeknau.nl
@@ -684,8 +676,6 @@ vuacas.com
 vv-one890.life
 vyaparapp.xyz
 w1lefe83.cyclingjordan.co
-w4.77tuna.org
-w8cyew46.metricsdataapi.com
 wargapoker5.live
 wasp.blinqueofficial.com
 wassksdyiwaiwai01.top
@@ -709,6 +699,7 @@ wuyexuxiangrikui.top
 wuyexuyiwaiwai.top
 wuyexuyoudao.top
 wuyqxuguge.top
+wvrbkeshcii77eb3urvai.beer
 www.adamsanglingbooks.com
 www.adelaidebooksellers.com.au
 www.allevi8.life
@@ -769,7 +760,6 @@ www.literarycatbooks.com
 www.manyhillsbooks.com
 www.mcdowellsemporium.com
 www.mcinbooks.com
-www.mgttw.com
 www.midtownscholar.us
 www.mostlyusefulfictions.com
 www.mysticlink.com
@@ -813,11 +803,11 @@ www.whitefoxrarebooks.com
 www.xmmtbxbackup3.com
 www.xmmtbxbackup4.com
 www.yeoldbookworm.com
-wy.78royal.org
 wywoba.workers.dev
 x0ihfh5u.asesoriamerenlinea.com
 x2sj7x7t.diorauction.com
 x5u.6r6r6.org
+x8kxy5pfxh.workers.dev
 xanaze.workers.dev
 xghc222o.amanahmaka.com
 xi.88bravo.com
@@ -841,12 +831,12 @@ yk.888-fw.com
 ytzsadguge1.top
 yutpn23730.workers.dev
 yv.888idrcatchy.org
-z0wbdk.5tr.org
 zadivy.workers.dev
 zambraao.lol
 zcuar44747.workers.dev
 zehrademirel.com
 zen-agent-oil-comic.xyz
+zgjxvuzn2a9l3vc7qczlom.beer
 zidiiyjrfsyeudjr.b1r6p3q8.live
 zoastklaeon.pro
 zoldvilag.hu
