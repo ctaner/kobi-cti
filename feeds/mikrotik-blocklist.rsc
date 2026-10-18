@@ -1,14 +1,16 @@
 # KOBİ CTI Portalı - MikroTik RouterOS adres listesi
-# Üretildi: 2026-10-18 18:37 UTC
+# Üretildi: 2026-10-18 22:24 UTC
 # Kullanım: /tool fetch url=... dst-path=kobi-cti.rsc ; /import file-name=kobi-cti.rsc
 /ip firewall address-list
 :do { add list=kobi-cti address=1.12.253.219 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.14.104.208 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=1.14.234.68 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.92.135.168 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.117.74.144 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.162.212.127 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.162.228.144 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=1.162.245.87 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=2.26.1.177 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=2.26.29.7 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=2.26.30.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=2.26.99.48 timeout=2d comment="kobi-cti" } on-error={}
@@ -50,7 +52,6 @@
 :do { add list=kobi-cti address=5.8.248.204 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.9.73.173 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.42.33.36 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=5.56.25.180 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.152.222.114 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.163.189.237 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.163.239.119 timeout=2d comment="kobi-cti" } on-error={}
@@ -68,13 +69,15 @@
 :do { add list=kobi-cti address=5.189.168.42 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.230.155.140 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.230.201.54 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=5.230.201.220 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=5.230.201.242 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.253.17.131 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=5.253.86.251 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.133.234.121 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.137.111.232 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.146.227.247 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=8.152.212.104 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.153.207.91 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=8.162.0.192 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.162.1.240 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.163.15.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=8.163.98.217 timeout=2d comment="kobi-cti" } on-error={}
@@ -97,6 +100,7 @@
 :do { add list=kobi-cti address=13.232.187.232 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=13.233.118.170 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=13.236.153.60 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=14.22.75.6 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=14.205.104.200 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=14.225.212.124 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=15.152.249.154 timeout=2d comment="kobi-cti" } on-error={}
@@ -110,6 +114,7 @@
 :do { add list=kobi-cti address=18.176.225.124 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=18.178.127.205 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=18.218.117.239 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=20.2.87.168 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=20.2.140.201 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=20.65.146.38 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=20.71.162.59 timeout=2d comment="kobi-cti" } on-error={}
@@ -128,6 +133,7 @@
 :do { add list=kobi-cti address=20.193.139.57 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=20.200.61.22 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=20.234.176.98 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=23.27.52.106 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.27.143.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.92.20.189 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.94.145.112 timeout=2d comment="kobi-cti" } on-error={}
@@ -161,6 +167,7 @@
 :do { add list=kobi-cti address=23.227.196.18 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.227.196.76 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.227.202.127 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=23.227.203.71 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=23.238.82.42 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=27.14.2.173 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=27.71.16.98 timeout=2d comment="kobi-cti" } on-error={}
@@ -256,13 +263,17 @@
 :do { add list=kobi-cti address=37.72.168.163 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.72.168.199 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.72.168.212 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=37.72.172.58 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=37.104.21.124 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.120.222.88 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.193.132.190 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.220.31.123 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.221.66.206 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=37.235.54.142 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=37.244.231.39 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.9.96.236 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.43.93.61 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=38.46.218.34 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.49.209.244 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.49.214.29 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.54.88.188 timeout=2d comment="kobi-cti" } on-error={}
@@ -283,6 +294,8 @@
 :do { add list=kobi-cti address=38.180.250.214 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.190.196.25 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.190.224.2 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=38.207.176.218 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=38.207.177.71 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.240.49.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.242.209.29 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=38.247.162.89 timeout=2d comment="kobi-cti" } on-error={}
@@ -293,11 +306,13 @@
 :do { add list=kobi-cti address=39.98.120.223 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=39.105.16.200 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=39.105.111.104 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=39.105.125.235 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=40.160.135.244 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=40.223.85.146 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=40.223.85.181 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=41.43.184.224 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=41.68.226.249 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=41.216.189.153 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=41.234.38.191 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=42.51.44.173 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=42.193.169.176 timeout=2d comment="kobi-cti" } on-error={}
@@ -313,6 +328,7 @@
 :do { add list=kobi-cti address=43.135.26.173 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.135.34.69 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.136.69.37 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=43.136.92.170 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.136.129.131 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.138.116.60 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.138.153.161 timeout=2d comment="kobi-cti" } on-error={}
@@ -323,6 +339,7 @@
 :do { add list=kobi-cti address=43.143.34.190 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.143.38.95 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.143.57.45 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=43.144.19.224 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.153.106.229 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.155.9.112 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=43.155.215.231 timeout=2d comment="kobi-cti" } on-error={}
@@ -347,11 +364,10 @@
 :do { add list=kobi-cti address=45.13.239.102 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.13.239.249 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.32.135.118 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.55.98.175 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.59.170.162 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.61.164.176 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=45.61.170.105 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.61.170.191 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=45.61.177.135 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.74.3.24 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.76.161.231 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.77.180.52 timeout=2d comment="kobi-cti" } on-error={}
@@ -368,7 +384,9 @@
 :do { add list=kobi-cti address=45.88.186.207 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.89.253.214 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.89.253.215 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.92.1.84 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.92.16.135 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.92.158.150 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.93.95.212 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.95.99.195 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.112.206.54 timeout=2d comment="kobi-cti" } on-error={}
@@ -403,10 +421,12 @@
 :do { add list=kobi-cti address=45.146.90.210 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.146.91.83 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.147.46.94 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.150.38.95 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.150.109.209 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.152.242.129 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.152.242.130 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.153.34.79 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.153.34.173 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.153.34.235 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.153.34.250 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.153.127.224 timeout=2d comment="kobi-cti" } on-error={}
@@ -421,6 +441,7 @@
 :do { add list=kobi-cti address=45.192.169.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.192.211.7 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.192.211.63 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=45.192.211.64 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.192.211.91 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.192.211.99 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=45.192.211.116 timeout=2d comment="kobi-cti" } on-error={}
@@ -489,6 +510,7 @@
 :do { add list=kobi-cti address=46.101.18.134 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=46.101.198.130 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=46.101.249.247 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=46.109.233.163 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=46.151.182.5 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=46.151.182.6 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=46.151.182.16 timeout=2d comment="kobi-cti" } on-error={}
@@ -545,11 +567,11 @@
 :do { add list=kobi-cti address=47.113.227.139 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.114.83.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.116.130.234 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=47.120.34.30 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.121.216.109 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.122.111.172 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.212.193.38 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.236.70.111 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=47.236.130.154 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.238.116.190 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.239.61.167 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=47.242.154.94 timeout=2d comment="kobi-cti" } on-error={}
@@ -609,9 +631,9 @@
 :do { add list=kobi-cti address=63.141.229.226 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=63.141.229.227 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=63.141.229.228 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=63.141.229.229 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=63.141.229.230 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=63.186.47.151 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=64.23.182.12 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=64.50.186.111 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=64.84.56.233 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=64.89.160.17 timeout=2d comment="kobi-cti" } on-error={}
@@ -668,12 +690,13 @@
 :do { add list=kobi-cti address=69.165.75.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=69.167.28.74 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=69.169.101.100 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=70.34.251.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=72.14.136.55 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=72.14.136.90 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=72.51.59.132 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=72.83.221.122 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=74.0.32.137 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=74.115.172.254 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=74.152.32.55 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=74.201.173.193 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=74.204.158.81 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=74.208.19.244 timeout=2d comment="kobi-cti" } on-error={}
@@ -685,6 +708,7 @@
 :do { add list=kobi-cti address=77.67.125.220 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=77.73.20.49 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=77.83.39.141 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=77.90.4.104 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=77.90.185.105 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=77.90.185.205 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=77.110.109.204 timeout=2d comment="kobi-cti" } on-error={}
@@ -696,6 +720,7 @@
 :do { add list=kobi-cti address=78.17.25.46 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=78.17.93.159 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=78.17.212.127 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=78.25.123.5 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=78.40.209.158 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=78.71.213.70 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=78.142.218.10 timeout=2d comment="kobi-cti" } on-error={}
@@ -722,6 +747,7 @@
 :do { add list=kobi-cti address=82.26.66.167 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.29.92.60 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.47.101.16 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=82.47.180.159 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.131.154.234 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.131.202.123 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.146.37.83 timeout=2d comment="kobi-cti" } on-error={}
@@ -729,6 +755,10 @@
 :do { add list=kobi-cti address=82.157.209.41 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.158.89.75 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.158.89.214 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=82.158.229.30 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=82.158.229.143 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=82.158.229.189 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=82.165.79.60 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=82.202.157.112 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=83.136.210.2 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=83.168.69.95 timeout=2d comment="kobi-cti" } on-error={}
@@ -744,6 +774,7 @@
 :do { add list=kobi-cti address=84.237.141.86 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=84.247.141.236 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=84.247.187.47 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=85.8.149.156 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=85.11.182.104 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=85.15.114.111 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=85.17.92.21 timeout=2d comment="kobi-cti" } on-error={}
@@ -773,6 +804,7 @@
 :do { add list=kobi-cti address=88.208.224.179 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=88.218.2.38 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=89.19.223.49 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=89.31.121.156 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=89.32.41.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=89.32.41.43 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=89.32.41.49 timeout=2d comment="kobi-cti" } on-error={}
@@ -834,6 +866,7 @@
 :do { add list=kobi-cti address=91.224.92.203 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=91.228.153.116 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=91.236.230.143 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=92.4.65.88 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=92.51.46.35 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=92.118.126.165 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=92.118.206.108 timeout=2d comment="kobi-cti" } on-error={}
@@ -862,6 +895,7 @@
 :do { add list=kobi-cti address=94.49.29.166 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=94.103.1.61 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=94.130.72.248 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=94.154.32.8 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=94.154.32.27 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=94.154.32.44 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=94.154.32.101 timeout=2d comment="kobi-cti" } on-error={}
@@ -913,8 +947,8 @@
 :do { add list=kobi-cti address=101.35.247.212 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=101.36.123.12 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=101.42.33.156 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=101.42.255.92 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=101.74.154.151 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=101.201.103.158 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.55.131.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.117.160.70 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.117.161.148 timeout=2d comment="kobi-cti" } on-error={}
@@ -943,14 +977,17 @@
 :do { add list=kobi-cti address=102.152.29.94 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.188.200.238 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.160.58 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=102.220.160.117 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=102.220.160.103 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.160.198 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.160.231 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=102.220.160.250 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.39 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.63 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.177 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.188 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.194 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=102.220.161.196 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=102.220.161.219 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.224 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.161.230 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=102.220.163.36 timeout=2d comment="kobi-cti" } on-error={}
@@ -964,6 +1001,7 @@
 :do { add list=kobi-cti address=103.53.80.201 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.54.153.49 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.57.250.246 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=103.67.163.108 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.67.163.201 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.68.95.197 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.79.76.207 timeout=2d comment="kobi-cti" } on-error={}
@@ -987,7 +1025,6 @@
 :do { add list=kobi-cti address=103.195.103.132 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.214.146.46 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.215.216.8 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=103.217.186.180 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.228.171.113 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.245.237.10 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=103.249.116.184 timeout=2d comment="kobi-cti" } on-error={}
@@ -1020,13 +1057,13 @@
 :do { add list=kobi-cti address=104.248.212.139 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=104.249.10.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=104.249.10.107 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=104.250.161.126 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=104.250.167.93 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=104.254.90.122 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=104.254.90.162 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=105.137.170.202 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=106.12.61.28 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=106.14.56.196 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=106.15.10.2 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=106.38.201.15 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=106.52.127.131 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=106.53.107.131 timeout=2d comment="kobi-cti" } on-error={}
@@ -1039,10 +1076,12 @@
 :do { add list=kobi-cti address=107.149.8.243 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.152.42.223 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.172.3.44 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=107.172.22.3 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=107.172.90.117 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.172.133.178 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=107.172.140.187 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.172.232.71 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.173.59.118 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=107.173.160.185 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.173.226.190 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.173.244.57 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=107.174.19.22 timeout=2d comment="kobi-cti" } on-error={}
@@ -1055,7 +1094,6 @@
 :do { add list=kobi-cti address=108.187.43.144 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=109.74.144.151 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=109.111.45.66 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=109.122.18.50 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=109.199.114.141 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=109.199.122.80 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=109.205.212.241 timeout=2d comment="kobi-cti" } on-error={}
@@ -1112,14 +1150,12 @@
 :do { add list=kobi-cti address=117.72.8.112 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=117.72.202.154 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=117.72.220.70 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=117.82.160.238 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=117.158.148.164 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.26.111.141 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.107.5.200 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.107.16.32 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.126.95.117 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.170.209.247 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=118.195.204.153 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=118.200.217.121 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.28.212.86 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.29.98.15 timeout=2d comment="kobi-cti" } on-error={}
@@ -1127,6 +1163,7 @@
 :do { add list=kobi-cti address=119.45.12.154 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.45.105.71 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.45.236.76 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=119.91.243.238 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.91.246.156 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.179.30.73 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=119.179.236.192 timeout=2d comment="kobi-cti" } on-error={}
@@ -1135,7 +1172,6 @@
 :do { add list=kobi-cti address=120.28.194.130 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=120.28.195.142 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=120.48.34.130 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=120.53.19.157 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=120.55.93.58 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=120.79.146.35 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=120.79.192.53 timeout=2d comment="kobi-cti" } on-error={}
@@ -1239,6 +1275,7 @@
 :do { add list=kobi-cti address=134.122.132.28 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=134.122.132.35 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=134.122.187.68 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=134.209.41.160 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=134.209.146.147 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=134.209.156.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=134.209.214.178 timeout=2d comment="kobi-cti" } on-error={}
@@ -1257,11 +1294,14 @@
 :do { add list=kobi-cti address=137.184.214.188 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=137.220.151.95 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=137.220.194.12 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=137.220.194.15 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.0.191.215 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.68.134.9 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.68.135.200 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.124.14.35 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.124.91.187 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=138.124.240.76 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=138.124.240.77 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.197.31.70 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.197.128.142 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=138.197.192.243 timeout=2d comment="kobi-cti" } on-error={}
@@ -1279,7 +1319,9 @@
 :do { add list=kobi-cti address=139.199.160.80 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=140.99.98.91 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=140.143.193.143 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=140.228.29.65 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=140.228.29.131 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=141.94.121.162 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=141.98.11.227 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=141.148.194.147 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=141.227.129.90 timeout=2d comment="kobi-cti" } on-error={}
@@ -1296,6 +1338,7 @@
 :do { add list=kobi-cti address=143.110.219.27 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=143.110.219.153 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=143.198.113.241 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=143.198.120.167 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=143.198.176.61 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=143.202.93.210 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=143.244.135.17 timeout=2d comment="kobi-cti" } on-error={}
@@ -1320,6 +1363,7 @@
 :do { add list=kobi-cti address=144.172.68.200 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=144.172.69.79 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=144.172.84.23 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=144.172.86.231 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=144.172.116.238 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=144.202.31.39 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=144.202.41.43 timeout=2d comment="kobi-cti" } on-error={}
@@ -1333,12 +1377,12 @@
 :do { add list=kobi-cti address=146.70.79.45 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=146.70.87.23 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=146.70.87.218 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=146.190.80.105 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=146.190.111.53 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=146.190.120.19 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=146.190.247.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=147.45.61.46 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=147.50.252.47 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=147.93.145.60 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=147.93.191.75 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=147.124.199.248 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=147.124.202.216 timeout=2d comment="kobi-cti" } on-error={}
@@ -1365,7 +1409,7 @@
 :do { add list=kobi-cti address=150.241.226.177 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=151.236.21.109 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=151.242.30.165 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=151.243.24.225 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=151.243.101.44 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=151.243.126.22 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=151.243.225.118 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=151.244.30.155 timeout=2d comment="kobi-cti" } on-error={}
@@ -1388,6 +1432,7 @@
 :do { add list=kobi-cti address=153.117.50.215 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=153.142.13.183 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=154.8.209.118 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=154.12.17.103 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=154.12.94.16 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=154.18.238.18 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=154.18.239.166 timeout=2d comment="kobi-cti" } on-error={}
@@ -1489,6 +1534,7 @@
 :do { add list=kobi-cti address=156.238.123.83 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=156.238.224.156 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=156.238.233.131 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=156.239.47.147 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=156.239.224.131 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=156.240.108.46 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=156.251.16.147 timeout=2d comment="kobi-cti" } on-error={}
@@ -1556,11 +1602,14 @@
 :do { add list=kobi-cti address=158.247.202.60 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=158.255.83.39 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=158.255.83.206 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=159.65.42.43 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.65.136.5 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.75.81.58 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.75.118.45 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.75.202.228 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=159.89.170.166 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.89.196.255 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=159.195.193.179 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.198.32.64 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.203.20.34 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.203.28.151 timeout=2d comment="kobi-cti" } on-error={}
@@ -1569,6 +1618,7 @@
 :do { add list=kobi-cti address=159.223.126.127 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=159.223.145.166 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=160.20.109.52 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=160.25.72.34 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=160.119.66.18 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=160.119.69.21 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=160.119.69.30 timeout=2d comment="kobi-cti" } on-error={}
@@ -1595,6 +1645,7 @@
 :do { add list=kobi-cti address=162.254.37.211 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=163.5.210.203 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=163.5.210.247 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=163.7.0.131 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=163.172.248.3 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=164.90.190.203 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=164.92.152.141 timeout=2d comment="kobi-cti" } on-error={}
@@ -1603,7 +1654,6 @@
 :do { add list=kobi-cti address=164.160.187.69 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=165.22.104.177 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=165.99.43.101 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=165.154.68.30 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=165.154.227.150 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=165.227.48.17 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=165.227.201.98 timeout=2d comment="kobi-cti" } on-error={}
@@ -1638,6 +1688,7 @@
 :do { add list=kobi-cti address=169.58.166.187 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=169.58.190.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=169.58.249.24 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=169.239.128.43 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=170.64.183.242 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=170.78.199.162 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=170.106.35.197 timeout=2d comment="kobi-cti" } on-error={}
@@ -1682,11 +1733,11 @@
 :do { add list=kobi-cti address=173.199.70.174 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=173.214.166.123 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=173.214.167.250 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=173.249.41.141 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=173.249.56.221 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=173.249.197.20 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=174.138.9.149 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=174.138.41.23 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=175.43.223.203 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=175.43.223.206 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=175.107.228.54 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=175.124.145.102 timeout=2d comment="kobi-cti" } on-error={}
@@ -1694,12 +1745,14 @@
 :do { add list=kobi-cti address=175.139.167.153 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=175.149.111.124 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=175.178.224.39 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=175.210.184.125 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.132.207 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.35 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.41 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.76 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.77 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.132 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=176.65.139.135 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.137 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.155 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.65.139.157 timeout=2d comment="kobi-cti" } on-error={}
@@ -1715,6 +1768,7 @@
 :do { add list=kobi-cti address=176.96.137.11 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.96.137.76 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.96.137.87 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=176.120.22.129 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.126.114.42 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.149.202.136 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=176.194.109.14 timeout=2d comment="kobi-cti" } on-error={}
@@ -1775,7 +1829,6 @@
 :do { add list=kobi-cti address=182.126.209.7 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=183.60.226.2 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=184.75.208.66 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=184.176.151.16 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.33.86.141 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.34.147.31 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.34.147.32 timeout=2d comment="kobi-cti" } on-error={}
@@ -1792,6 +1845,7 @@
 :do { add list=kobi-cti address=185.114.206.92 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.117.89.70 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.127.94.179 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=185.147.83.58 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.147.83.59 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.147.159.251 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.157.163.24 timeout=2d comment="kobi-cti" } on-error={}
@@ -1808,6 +1862,7 @@
 :do { add list=kobi-cti address=185.212.128.90 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.212.128.96 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.212.128.124 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=185.212.128.155 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.212.128.168 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.212.128.169 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=185.212.128.170 timeout=2d comment="kobi-cti" } on-error={}
@@ -1852,6 +1907,7 @@
 :do { add list=kobi-cti address=188.137.227.133 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=188.166.16.176 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=188.166.35.43 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=188.166.40.236 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=188.166.91.100 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=188.166.100.18 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=188.166.152.179 timeout=2d comment="kobi-cti" } on-error={}
@@ -1887,7 +1943,6 @@
 :do { add list=kobi-cti address=191.252.184.198 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.3.47.188 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.9.157.200 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=192.82.67.94 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.99.70.186 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.109.139.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.109.139.94 timeout=2d comment="kobi-cti" } on-error={}
@@ -1926,13 +1981,14 @@
 :do { add list=kobi-cti address=192.253.229.23 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=192.253.229.236 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.8.187.10 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=193.24.123.25 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.24.123.206 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.25.215.83 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.25.217.103 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.26.115.5 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=193.29.13.44 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.32.162.108 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.84.71.165 timeout=2d comment="kobi-cti" } on-error={}
-:do { add list=kobi-cti address=193.111.77.180 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.111.117.135 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.112.95.1 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=193.112.169.214 timeout=2d comment="kobi-cti" } on-error={}
@@ -1956,6 +2012,7 @@
 :do { add list=kobi-cti address=194.9.6.95 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=194.9.6.125 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=194.11.246.110 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=194.26.192.117 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=194.26.192.153 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=194.31.197.63 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=194.31.197.64 timeout=2d comment="kobi-cti" } on-error={}
@@ -1992,10 +2049,12 @@
 :do { add list=kobi-cti address=196.65.222.84 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.77.100.164 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.77.102.208 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=196.251.121.90 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.251.121.124 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.251.121.178 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.251.121.199 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=196.251.121.249 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=196.251.121.250 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=198.1.241.78 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=198.1.241.175 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=198.23.177.220 timeout=2d comment="kobi-cti" } on-error={}
@@ -2020,11 +2079,14 @@
 :do { add list=kobi-cti address=202.162.99.199 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=202.170.75.149 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=202.170.75.212 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=203.83.238.164 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.88.118.26 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=203.91.75.89 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.91.78.218 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.117.231.234 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.161.47.31 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.161.55.41 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=203.161.57.75 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.177.177.85 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.202.232.203 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=203.221.8.159 timeout=2d comment="kobi-cti" } on-error={}
@@ -2039,6 +2101,8 @@
 :do { add list=kobi-cti address=206.209.210.6 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=207.56.3.27 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=207.56.3.56 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=207.56.30.177 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=207.56.30.181 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=207.56.217.22 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=207.56.217.24 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=207.57.123.129 timeout=2d comment="kobi-cti" } on-error={}
@@ -2067,6 +2131,7 @@
 :do { add list=kobi-cti address=209.126.103.97 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=209.200.246.194 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=211.219.49.173 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=212.46.38.117 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=212.86.121.238 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=212.86.125.129 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=212.87.212.117 timeout=2d comment="kobi-cti" } on-error={}
@@ -2132,6 +2197,8 @@
 :do { add list=kobi-cti address=217.60.195.216 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=217.60.195.219 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=217.60.195.226 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=217.60.241.14 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=217.60.241.17 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=217.60.241.31 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=217.60.241.48 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=217.60.241.50 timeout=2d comment="kobi-cti" } on-error={}
@@ -2149,6 +2216,7 @@
 :do { add list=kobi-cti address=217.217.197.191 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=218.59.14.244 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=219.140.4.10 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=220.154.3.197 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=220.154.128.196 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=220.177.11.230 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=220.192.32.134 timeout=2d comment="kobi-cti" } on-error={}
@@ -2156,6 +2224,7 @@
 :do { add list=kobi-cti address=221.3.87.188 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=221.194.101.213 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=222.127.152.103 timeout=2d comment="kobi-cti" } on-error={}
+:do { add list=kobi-cti address=222.167.211.55 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=222.255.215.42 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=223.109.142.7 timeout=2d comment="kobi-cti" } on-error={}
 :do { add list=kobi-cti address=223.206.137.140 timeout=2d comment="kobi-cti" } on-error={}

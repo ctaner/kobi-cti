@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - URL engelleme listesi
-# Üretildi: 2026-10-18 18:37 UTC
+# Üretildi: 2026-10-18 22:24 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 http://101.23.121.201:59456/bin.sh
@@ -52,7 +52,6 @@ http://113.230.24.226:38270/bin.sh
 http://113.238.162.54:52041/Mozi.m
 http://113.254.36.153:50445/i
 http://114.239.44.32:48797/i
-http://117.82.160.238:59175/bin.sh
 http://119.179.236.192:36834/i
 http://119.179.30.73:43717/i
 http://120.28.194.130:53799/bin.sh
@@ -86,7 +85,6 @@ http://143.20.154.42/bins/o.xml
 http://143.20.154.42/bins/w.sh
 http://144.31.151.8/
 http://151.242.30.165/s.ps1
-http://151.243.24.225/0upmips
 http://153.117.13.10:48258/Mozi.m
 http://153.117.15.186:60465/Mozi.m
 http://153.117.32.82:40061/Mozi.a
@@ -112,6 +110,9 @@ http://175.149.111.124:37912/i
 http://176.194.109.14:48916/bin.sh
 http://176.194.109.14:48916/i
 http://176.65.139.132/x86_64
+http://176.65.139.135/bins/dlink.sh
+http://176.65.139.135/bins/m68k
+http://176.65.139.135/bins/mips
 http://176.65.139.137/manji.arm4
 http://176.65.139.137/manji.arm5
 http://176.65.139.137/manji.arm6
@@ -139,20 +140,17 @@ http://176.65.139.155/ppc64
 http://176.65.139.155/ppc64le
 http://176.65.139.157/fvbig/sever1078.arc
 http://176.65.139.157/fvbig/sever1078.arm5
-http://176.65.139.157/fvbig/sever1078.arm6
 http://176.65.139.157/fvbig/sever1078.arm64
 http://176.65.139.157/fvbig/sever1078.i686
-http://176.65.139.157/fvbig/sever1078.m68k
 http://176.65.139.157/fvbig/sever1078.mips
 http://176.65.139.157/fvbig/sever1078.mpsl
 http://176.65.139.157/fvbig/sever1078.ppc
 http://176.65.139.157/fvbig/sever1078.spc
-http://176.65.139.157/fvbig/sever1078.x86
-http://176.65.139.157/fvbig/sever1078.x86_64
 http://176.65.139.157/fvbig/zerobot.arm64
 http://176.65.139.157/fvbig/zerobot.arm7
+http://176.65.139.160/aarch64
 http://176.65.139.160/juan.apk
-http://176.65.139.160/mipsel
+http://176.65.139.160/ppc64le
 http://176.65.139.160/x86
 http://176.65.139.160/x86_64
 http://176.65.139.168/mips
@@ -170,6 +168,7 @@ http://176.65.139.204/iran.armv7l
 http://176.65.139.204/iran.i486
 http://176.65.139.204/iran.m68k
 http://176.65.139.204/iran.mips
+http://176.65.139.204/iran.mipsel
 http://176.65.139.204/iran.mipsrouter
 http://176.65.139.204/iran.powerpc
 http://176.65.139.204/iran.sh4
@@ -237,7 +236,6 @@ http://192.162.199.249/hbspbloprxh3iu2h
 http://192.162.199.249/ujnyyodzjazt2491
 http://192.227.210.190/dred
 http://192.3.47.188/135/images_95858005050050.JPG.hta
-http://192.82.67.94/GodPotato-NET4.exe
 http://193.111.117.135/bins/mirai.arm5
 http://193.111.117.135/bins/mirai.arm8
 http://193.111.117.135/bins/mirai.armb7
@@ -359,7 +357,6 @@ http://39.34.191.156:42046/Mozi.m
 http://39.75.161.67:49209/bin.sh
 http://39.75.161.67:49209/i
 http://43.134.2.126:18080/payload.bin
-http://43.228.157.73/47.exe
 http://43.228.157.73/client.exe
 http://45.140.13.203/
 http://45.144.52.239/aarch64
@@ -369,7 +366,6 @@ http://45.144.52.239/armv6l
 http://45.144.52.239/armv7l
 http://45.144.52.239/x86_64
 http://45.177.32.104:49383/i
-http://45.231.145.15:54661/bin.sh
 http://45.231.145.15:54661/i
 http://45.74.3.24/bot.aarch64
 http://45.74.3.24/bot.arm5
@@ -389,6 +385,7 @@ http://46.236.65.12:60086/bin.sh
 http://46.236.65.12:60086/i
 http://46.236.65.19:33798/bin.sh
 http://46.236.65.19:33798/i
+http://47.120.34.30:9118/linux
 http://47.212.193.38:54138/bin.sh
 http://47.212.193.38:54138/i
 http://5.165.228.242:23299/bin.sh
@@ -406,10 +403,10 @@ http://64.89.160.48/bins/pm68k
 http://64.89.160.48/bins/pmips
 http://64.89.160.48/bins/pmpsl
 http://64.89.160.48/bins/px86
-http://64.89.160.48/bins/x86_64
 http://66.116.243.130/zedi
 http://68.195.40.192:54672/bin.sh
 http://68.195.40.192:54672/i
+http://78.25.123.5:34077/bin.sh
 http://8.153.207.91:9575/linux
 http://8.163.15.89:7214/linux
 http://8.219.215.66:6364/linux
@@ -420,10 +417,10 @@ http://83.168.69.95/aarch64
 http://83.168.69.95/armv4l
 http://83.168.69.95/armv5l
 http://83.168.69.95/armv6l
+http://83.168.69.95/hggseiqwekf.sh
 http://83.168.69.95/i486
 http://83.168.69.95/m68k
 http://83.168.69.95/mips
-http://83.168.69.95/mipsel
 http://83.168.69.95/mipsrouter
 http://83.168.69.95/powerpc
 http://83.168.69.95/x86_64
@@ -504,8 +501,6 @@ http://c2.teamzeroday.net/bin/manta.sh4
 http://c2.teamzeroday.net/bin/manta.x86_64
 http://clownguard.us/clickfix.exe
 http://digitallightandsound.com:9504
-http://flreaow.click:6527/reports
-http://fresok.top:9048/invoices
 http://helpdesk09-26.com/
 http://hotelhungry.com/public/winwin/Nivellering.mix
 http://hotelhungry.com/public/winwin/bataters.psp
@@ -515,7 +510,6 @@ http://photolivebook.pro/
 http://project0.cc/f/m/.X0-lock_x86_64
 http://spiohop.shop:9932/workspaces
 http://teculse.click:9210/categories
-http://zonxh.shop:7728/messages
 https://130.12.181.99/Bin/ScreenConnect.ClientSetup.exe
 https://130.12.181.99/bin/support.client.exe
 https://139.162.142.13/
@@ -588,11 +582,18 @@ https://b.7sot.org/
 https://b.99rtp.net/n/
 https://b.99rtp.net/q/
 https://b.99rtp.net/u/
+https://b.99rtp.net/v/
 https://b.9windaftar.com/bp/
 https://b.9windaftar.com/fuh/
+https://b.9windaftar.com/j5/
 https://b.9windaftar.com/jm/
+https://b.9windaftar.com/jz/
+https://b.9windaftar.com/k90/
+https://b.9windaftar.com/l/
+https://b.9windaftar.com/ov/
 https://b.9windaftar.com/ti/
 https://b.9windaftar.com/w7/
+https://b.9windaftar.com/x2/
 https://b.9windaftar.com/yh/
 https://b2.9windaftar.com/a/
 https://b2.9windaftar.com/b/
@@ -620,14 +621,12 @@ https://ba.9nawin.org/xx/
 https://ba.9nawin.org/zx/
 https://bannerware.net
 https://bentleyg.com/
-https://bhumivista.com/
 https://bj66viet.com/
 https://bj66vn.com/
 https://bra.666iapk.net/cz2
 https://breezeclient.org/BreezeLoader-26.2.jar
 https://bumcoinc.site/binsir/img_sir035737.png
 https://cdn.jsdelivr.net/gh/19234tr68/b3bef8b-a44f-4119-a8a5-d9ef59f0a7b/1-8c88-d5143357153
-https://cdn.jsdelivr.net/gh/werd19327/a33fa0a-3d04-45ee-ad11-3026ed95372/a7ea-ee73049399c
 https://cdn.wovplaying.help/update.zip
 https://cfpj.tg/
 https://charlemagne.ma/
@@ -644,6 +643,8 @@ https://donutsmpclient.com/__l5e/assets-v1/c03fba1e-47b9-42d6-aa75-19198316c380/
 https://download-files.wixmp.com/ugd/09c1d5_535e18f9f54e47a8a4f9587ce3e9a710.txt
 https://e.88idn.net
 https://e.88idn.net/
+https://e.88idr.org
+https://e.88idr.org/
 https://epi.77777w.net/bv
 https://epi.77777w.net/j8
 https://epi.77777w.net/w9v
@@ -2350,6 +2351,18 @@ https://leo88vn.vip/
 https://liftsystemssolutions.com/
 https://lightmagazines.com/
 https://livebj66.com/
+https://lo.9wing.org/ab/
+https://lo.9wing.org/ax/
+https://lo.9wing.org/br/
+https://lo.9wing.org/cv/
+https://lo.9wing.org/imh/
+https://lo.9wing.org/j9/
+https://lo.9wing.org/jm/
+https://lo.9wing.org/mw/
+https://lo.9wing.org/o5/
+https://lo.9wing.org/otp/
+https://lo.9wing.org/t42/
+https://lo.9wing.org/t9/
 https://lottovip.lease/
 https://lovingthejourneys.com/
 https://ls.988boss.org/b67/
@@ -2405,9 +2418,12 @@ https://ngi.88idn.net/
 https://ngob.co.za/
 https://nitcoenergy.com/
 https://nlspronos.fr/
-https://nova-75.com/curl/waxeqrf1w/56d7vzaivvpne4fbqg.json
-https://nova-75.com/f/vrhqljbnscwhbyhltuwmsq/t2990cmj
 https://nwfc.io/
+https://o7.9kio.org/
+https://o7.9kio.org/a/
+https://o7.9kio.org/f/
+https://o7.9kio.org/h/
+https://o7.9kio.org/r/
 https://obearo.com/img_163520.png
 https://odinclient.st/OdinClient-26.2.jar
 https://odinclient.st/OdinClient-26.3.jar
@@ -2436,6 +2452,18 @@ https://provisjournal.com/elm/chclst.php
 https://pub-0216fa08b2b94e129cb9e002cf7cb1f4.r2.dev/img_095017.png
 https://pub-43fc211373d547278dd3d5bd0b4d9dac.r2.dev/PlutonAgent.exe
 https://pub-ecb7161ffc7a4a67bdd8761583e21d16.r2.dev/miners/srbminer-3.5.6.zip
+https://pw.9windaftar.com/eu/
+https://pw.9windaftar.com/gv2/
+https://pw.9windaftar.com/ht/
+https://pw.9windaftar.com/jk/
+https://pw.9windaftar.com/lb/
+https://pw.9windaftar.com/lr/
+https://pw.9windaftar.com/m/
+https://pw.9windaftar.com/mw/
+https://pw.9windaftar.com/nf5/
+https://pw.9windaftar.com/o4/
+https://pw.9windaftar.com/qjt/
+https://pw.9windaftar.com/qu/
 https://q16.71k.org/d
 https://q9.9windaftar.com/ck/
 https://q9.9windaftar.com/cp/
@@ -2461,6 +2489,19 @@ https://qj.988boss.org/uk/
 https://qj.988boss.org/w/
 https://qj.988boss.org/x8/
 https://qj.988boss.org/xl/
+https://qp.9windaftar.com/dk/
+https://qp.9windaftar.com/e67/
+https://qp.9windaftar.com/fc/
+https://qp.9windaftar.com/h5/
+https://qp.9windaftar.com/kf/
+https://qp.9windaftar.com/ln/
+https://qp.9windaftar.com/nj/
+https://qp.9windaftar.com/nm/
+https://qp.9windaftar.com/ny/
+https://qp.9windaftar.com/tvu/
+https://qp.9windaftar.com/x0/
+https://qp.9windaftar.com/yq/
+https://qualicost.com/
 https://quillchant14.com/f/680apd_597afiqvimxvelw/sfjwmrjy
 https://r.88bravo.com
 https://r.88bravo.com/
@@ -4309,6 +4350,7 @@ https://raw.githubusercontent.com/alejandrogiga98/A11y-Bookmarklets/refs/heads/m
 https://raw.githubusercontent.com/alexander123138/holychild/refs/heads/main/seceder/Software-v3.7-beta.3.zip
 https://raw.githubusercontent.com/alexm3074/alexm3074.github.io/main/ratter/Release-v1.6.zip
 https://raw.githubusercontent.com/alextan38/alextan38.github.io/main/postcalcarine/v2.2.zip
+https://raw.githubusercontent.com/alfanane/Stacked/master/src/main/kotlin/gg/aquatic/stacked/factory/Software_v3.7-beta.2.zip
 https://raw.githubusercontent.com/alhakimiadam/alhakimiadam.github.io/refs/heads/main/css/Application_3.4.zip
 https://raw.githubusercontent.com/alialbayaty/bo3-unlock-all-utility/branch/overfeed/all-unlock-utility-bo-v2.3-alpha.2.zip
 https://raw.githubusercontent.com/alicekane437/alicekane437.github.io/refs/heads/main/inoppugnable/1.3.zip
@@ -4666,6 +4708,7 @@ https://raw.githubusercontent.com/cyran-kyle/awesome-osint/master/interwhiff/osi
 https://raw.githubusercontent.com/dali-raki/INV_NEXT_Step2/lastTest2/.vs/INV_NEXT_Step/CopilotIndices/Step_NEX_IN_2.5.zip
 https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-v2.8.zip
 https://raw.githubusercontent.com/daniel-alex49/Telegram-Automation-Toolkit/main/keyless/Telegram-Automation-Toolkit.zip
+https://raw.githubusercontent.com/danielxxxd1998/playwright-examples-testwarez-2025/refs/heads/main/tests/api-mock/playwright-examples-testwarez-1.7.zip
 https://raw.githubusercontent.com/danielyipeng/awesome-claude-skills/HEAD/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip
 https://raw.githubusercontent.com/danteanterior266/lerobot-genesis/main/examples/genesis_lerobot_1.1.zip
 https://raw.githubusercontent.com/dantongrinder36/dantongrinder36.github.io/main/nickelic/1.4.zip
@@ -5004,6 +5047,7 @@ https://raw.githubusercontent.com/igorkrasik609-prog/Thronglets/refs/heads/main/
 https://raw.githubusercontent.com/igtkarish/SoftMicro_Drapes_2000_Beta/refs/heads/SoftMicro_Drapes_2000_Beta_Main-dev/OldVersions/GITATTRIBUTES/Drapes-Beta-Soft-Micro-3.5-alpha.3.zip
 https://raw.githubusercontent.com/iharshsingh/django-backend-eduplatform/refs/heads/main/courses/api/django_backend_eduplatform_1.8-alpha.5.zip
 https://raw.githubusercontent.com/ihatexim/log-analyzer/refs/heads/main/assets/analyzer_log_2.8.zip
+https://raw.githubusercontent.com/ikashmiri/social-media-automation-tools-framework/HEAD/foreran/media-framework-tools-automation-social-v1.7.zip
 https://raw.githubusercontent.com/ikbalrestufauzi/AI-Sentiment-Analysis-Amazon-Reviews/refs/heads/main/assets/Amazon-Reviews-Sentiment-A-Analysis-v2.1.zip
 https://raw.githubusercontent.com/imadosan/Bankist/main/src/Software-v3.4.zip
 https://raw.githubusercontent.com/imadosan/Mapty/refs/heads/main/images/Software_3.0-alpha.4.zip
@@ -6400,6 +6444,7 @@ https://razao.pt/GMV42B4J
 https://rcyjc64bglyz21olcgtt.beer
 https://realblessingpro.com/
 https://realstrikklyhiphop.com/
+https://reketepizza.com/
 https://reynolds.mw/
 https://roadracerx.com/
 https://rosales20bar.com/
@@ -6423,6 +6468,7 @@ https://samsunsesisik.com/
 https://sandandgarden.com.mx/
 https://sbokubet.com/
 https://scentury.vn/
+https://sexstories.beauty/
 https://shinemusic.ca/
 https://sigmaclient.net/SigmaClient-Fabric-26.3.jar
 https://sigmaclient.org/SigmaClient-Fabric-26.2.jar
@@ -6656,8 +6702,6 @@ https://wielixclient.com/WielixClient-26.3.jar
 https://wielixclient.net/WielixClient-26.2.jar
 https://wr2.com.br/
 https://wvrbkeshcii77eb3urvai.beer
-https://www.cloudguild.tn/
-https://www.diginas.fr/
 https://www.espacesante-suisse.ch/
 https://www.guncelbetvoygiris.com/
 https://www.iuriqa.legal/
@@ -6682,6 +6726,7 @@ https://www.synergysparq.com/
 https://www.teamcase.it/
 https://www.ucerma.sk/
 https://www.ufa007.tv/
+https://www.ufa365.academy/
 https://www.vasservending.com/
 https://www.verttige.tn/
 https://www.vidieckymakler.sk/
@@ -6714,6 +6759,9 @@ https://ym.88bravo.com/
 https://yuw.88idn.net
 https://yuw.88idn.net/
 https://z.88mdc.org/z/
+https://z.9wing.org/eo/
+https://z.9wing.org/sk/
+https://z.9wing.org/x/
 https://z7.8mytogel.org/cc/
 https://z7.8mytogel.org/ce/
 https://z7.8mytogel.org/d/

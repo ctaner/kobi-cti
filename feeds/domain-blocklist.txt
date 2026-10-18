@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-18 18:37 UTC
+# Üretildi: 2026-10-18 22:24 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 100-ho.com
@@ -133,10 +133,18 @@ audiokitpro.com
 auditoriarecords.com
 augulimp.com.br
 aureoforpet.com
+auth-code-check.info
+auth-code-verif.beer
 auth-code.nvc-info.beer
+auth-id-browser.info
 authendigital.io
+authorization-cdn-press-enter.info
 authorization-code-cdn.info
+authorization-code.beer
+authorization-code.info
 authorization-id-browser.info
+authorization-id-code.info
+authorization-press-enter.info
 autoressq.com
 avaped.com.br
 avardrone.com
@@ -212,7 +220,6 @@ bociljp.store
 bociljp.us.com
 bociljp.xyz
 bocillanang.com
-bocmf50748.workers.dev
 bojaks.com
 boloin.shop
 bonecaambalabu.com
@@ -235,6 +242,7 @@ btpwa.org
 bucharestfashionfilm.ro
 budohiwy.workers.dev
 buillingereio.com
+bulkcompressimages.com
 burberry-handbagsoutlet.com.co
 burnout-und-sucht.de
 bursacnc.com
@@ -243,6 +251,7 @@ byggetomreren.dk
 byqarywu.workers.dev
 c-proxy-xjmkjgbsdn.cn-hangzhou.fcapp.run
 c5i.co.za
+cacote.com
 caecvehicle.com
 cam81.fr
 cambusa.eu
@@ -257,6 +266,7 @@ casabeta.cat
 casadellasperanzadata.com
 casaleo-shop.de
 casavilladibriano.it
+caveresorts.com
 cbavideography.com
 cdn-edge-updates.hostcloud-eu.net
 cdn-js-conhost.icu
@@ -293,6 +303,7 @@ cjbookmarks.com
 ck.erloro.com
 clarityfze.com
 classicdigitalindia.com
+claudverification-id.beer
 cleaningnetwork.sg
 cleanveins.org
 clevedonmanwithvan.co.uk
@@ -312,6 +323,8 @@ cmsvn.vn
 cobalt-lark-gleopprioor.pro
 coccicocci.com
 code.nvc-info.beer
+code.verification-claude-cdn.beer
+codeverificatrorcl.info
 compassbase.cfd
 complianceportals.com
 confessionscoffee24.com
@@ -340,6 +353,7 @@ cwsasoccer.org
 cyankellina.workers.dev
 cybrspace.org
 cyclingjordan.co
+cyqafagi.workers.dev
 d6.76k.org
 dadhettniaedas.com
 dailygrynde.fit
@@ -390,6 +404,7 @@ duocphamquocte.com
 duomegahair.com.br
 dusky-lark-piarnskaeum.ink
 e.88idn.net
+e.88idr.org
 e8alb83nqp.workers.dev
 eaioc.shop
 eazyhob.store
@@ -401,6 +416,7 @@ edgnltatqptann.com
 edwardlopezfotografia.com
 eeithfaeue.com
 eelifjdoeae.com
+efesg5.space
 egakqe36ey.workers.dev
 ejtteyte.com
 elektronbv.com
@@ -477,19 +493,16 @@ fitzgeraldsva.com
 flashaquecedores.com.br
 fliorkfliixsable.pro
 flizzyy.com
-flreaow.click
 fm.com.do
 fmyummk.com
 fondazioneoav.it
 fontawesome-cdn.cfd
 foreveryoungmi.com
-foroxito.workers.dev
 fr.8mytogel.org
 frame-kite.com
 frame97.com
 framework-css-styles-js.beer
 franceinsider.fr
-fresok.top
 friendsofcomedy.com
 friseur-newlook.com
 fundacionmirizzi.org
@@ -570,7 +583,7 @@ hbo77slot.net
 healskills.com
 heartbeatyardpoint.com
 heartteamllc.com
-hejehygo.workers.dev
+hefewafa.workers.dev
 helderbergexcavating.com
 hello-riders.com
 heritagecc.co.za
@@ -613,6 +626,8 @@ id.988boss.org
 idcheckbrowese.codes
 idcool.codes
 idealgestaoeseguranca.com.br
+idverification-cdn.info
+idverification-code.beer
 if.88idn.net
 iflautisti.com
 igb.9nawin.org
@@ -725,12 +740,12 @@ lightmagazines.com
 liifa.co.za
 limpiezaeventos.com
 lincolnpublishers.us
-linedeci.workers.dev
 linkclick.link
 litma.org
 livebj66.com
 liveliferadiantly.com
 ljpjw6ws.bebaskanlah.com
+lo.9wing.org
 loampsi.com
 loizena.com
 lolati.workers.dev
@@ -779,6 +794,7 @@ megadress.at
 mehmetcancan.com
 melamie9134.workers.dev
 melekcollection.com
+melisandra11.workers.dev
 mellow-flicker-comet-pluio.pro
 melodicviolante.workers.dev
 mentorflix.com.br
@@ -864,7 +880,6 @@ norkapi41.icu
 norrykilu231.digital
 notaria4medellin.com.co
 nova-49.com
-nova-75.com
 npugr18830.workers.dev
 ns1.kcsc.tf
 ns2.kcsc.tf
@@ -874,6 +889,7 @@ nurmas.com.tr
 nwfc.io
 nylocal.org
 nylocorporation.com
+o7.9kio.org
 oalaoiodgne.com
 oatrafoateeve.com
 ochre-quill-buindbaio.icu
@@ -892,7 +908,6 @@ osmaneliyurtlari.com
 osolalkhebra.com
 ossb6.oss-cn-beijing.aliyuncs.com
 ota.proxystream.st
-ouiucyh3.web-optimizer.us
 oxfordbrazilebm.com
 ozsae31509.workers.dev
 p3nqewz0nzrfs50w24qpun.beer
@@ -947,8 +962,10 @@ profotofix.com
 prontohandymanllc.com
 prontointerventosocialedss17.com
 provisjournal.com
+proxy-us-east003-cip12.ahrefs.net
 psicologianovamente.com.br
 pushpendradwivedi.com
+pw.9windaftar.com
 pyramidrockrealty.com
 q16.71k.org
 q2xcpigj.betweentwospaces.com
@@ -956,8 +973,10 @@ q9.9windaftar.com
 qijyxidi.workers.dev
 qj.988boss.org
 qmmrenctaq.com
+qp.9windaftar.com
 qualicost.com
 quickwech.com
+qujexele.workers.dev
 r.88bravo.com
 r1oqxdev.abijacobs.co.uk
 r5pzk86j.diorauction.com
@@ -1156,6 +1175,7 @@ telemetry-relay.kartohaantoha36-6a9.workers.dev
 temdetudoecommerce.com
 tensoehhitrln.com
 tercasa.de
+test.officeplustool.top
 tfhhegbi.com
 tftp2.sh
 tgs888v7b.net
@@ -1199,7 +1219,6 @@ transactt.com
 transform-id21.com.sg
 travelersnotebooks.com
 travelley.health
-trekkernel4.com
 trilliot6776.icu
 trucnher.skin
 trudy-agin.ru
@@ -1223,6 +1242,7 @@ unitedgulfsahab.com
 unnorte.digital
 unodeagosto.com
 unscrewyourkids.com
+updatesrv.net
 us.9nawin.org
 usefilebox.com
 usual-pixx12.digital
@@ -1246,6 +1266,8 @@ velvet-otter-glagceis.life
 velvetreoskslaon.pro
 verico-de-id.beer
 verif-key-code.info
+verification-code-js.beer
+verificationscodes.beer
 verificator.cc
 verifing-server.codes
 veronicacucco.it
@@ -1255,7 +1277,6 @@ vespucciapartments.it
 vestirygroup.com.br
 veteranwalls.com
 vewknyie.com
-vezlp9pr.amanahnaga.com
 vgavoile.org
 vickymarine.com
 vidieckymakler.sk
@@ -1283,6 +1304,7 @@ wadirumhappytourandcamp.com
 wantinstitute.org
 warpfins.com
 warrette.quest
+web-analyzer-serv32.com
 web-optimizer.us
 webbet168.net
 webfischerei.de
@@ -1305,8 +1327,6 @@ workworm1412.buzz
 wr2.com.br
 wubezizo.workers.dev
 wvrbkeshcii77eb3urvai.beer
-www.cloudguild.tn
-www.diginas.fr
 www.divinex.to
 www.espacesante-suisse.ch
 www.guncelbetvoygiris.com
@@ -1333,6 +1353,7 @@ www.synergysparq.com
 www.teamcase.it
 www.ucerma.sk
 www.ufa007.tv
+www.ufa365.academy
 www.vasservending.com
 www.verttige.tn
 www.vidieckymakler.sk
@@ -1364,15 +1385,14 @@ ymvc.ie
 yocvn.top
 youshouldvecomeover.lol
 yumweb.com
-yutpn23730.workers.dev
 yuw.88idn.net
 z.88mdc.org
+z.9wing.org
 z7.8mytogel.org
 zachschottnutrition.com
 zainyapparels.com
 zakgz07369.workers.dev
 zambraao.lol
-zcuar44747.workers.dev
 zdorovyeglaz.ru
 zenequitycapital.com
 zenithcomputers.com
@@ -1387,5 +1407,4 @@ zn.8-hhh.org
 zoastklaeon.pro
 zofopi.workers.dev
 zone3capital.com
-zonxh.shop
 zoo-station.com
