@@ -1,9 +1,8 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-17 22:16 UTC
+# Üretildi: 2026-10-18 04:27 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 0bfor2xlm0.workers.dev
-0jye42ba.socop.space
 100-ho.com
 1212resort.com
 178-128-196-79.sslip.io
@@ -15,13 +14,12 @@
 3alzf8froh.workers.dev
 3lacleaning.com
 3o3irtt8p0eztfqlkeso.beer
-3pink.workers.dev
-48mko9hrqrdwuvj.icu
 4dhwf8bz.suzukibandung.co
 4dm3itrtps8m2grskrqygf.beer
 4q7l3aauklpq0bj86rdnvr.beer
 595grand.com
 69bs66ln.socop.org
+6cnxgj35.cyclingjordan.co
 75.97.205.84.res-cmts.blm.ptd.net
 77nm4x7se1.workers.dev
 7k.iakmialor.web.id
@@ -60,6 +58,7 @@ albacetecapital.es
 alberts-vorburger-hof.de
 alcoexteriors.com
 aleverifocation.beer
+allert-tech.com
 aloemqvnth.com
 alrawda-co.com
 altekservices.com.au
@@ -72,6 +71,7 @@ amber-ridge-bruixsioi.pro
 amber-weave-otter-luor.pro
 ambulance-bethelem.com
 ameliaciclopica.it
+analysis-id-lfg.info
 analyze-me3.buzz
 aneldhasy.com
 anhcuoihalong.com
@@ -93,11 +93,13 @@ arylhive.com
 asajkdjkxsiasdjaguge.top
 ascentmb.com
 asdstar.com
+asesoriamerenlinea.com
 askyourfitnessquestion.com
 aswdczayiwaiwi.top
 asxcdskdwedgugefy.top
 atiagwcvltealv.com
 atlanticgentrade.co.uk
+auth-code.nvc-info.beer
 autoressq.com
 avaped.com.br
 awg5bzdo.escritoriovirtualasesor.com
@@ -105,6 +107,7 @@ ay.988boss.org
 azurecolorful.workers.dev
 b.7sot.org
 babatech.store
+babmalo.pro
 babybedsheet.com
 backdoor.61116222b2.buzz
 backdoor.afribus.co
@@ -138,7 +141,9 @@ betterrestores.com
 bhumivista.com
 bigcucocreative.co.uk
 bigredwire.com.au
+bihykyto.workers.dev
 bilingualtoolsla.com
+bimba.anix-to.com
 bj66c3.com
 bj66dagavn.com
 bj66info.com
@@ -156,6 +161,9 @@ bluffandpuff.com
 bm45m70ol5ave2fopggr4q.beer
 bocmf50748.workers.dev
 bojaks.com
+bolerkas.sbs
+bolerkas.shop
+booohop.shop
 bostaiwanline.top
 bra.666iapk.net
 bracys-a1-septic.com
@@ -177,8 +185,8 @@ budohiwy.workers.dev
 buillingereio.com
 businesscourse.id
 byggetomreren.dk
+byqarywu.workers.dev
 c-proxy-xjmkjgbsdn.cn-hangzhou.fcapp.run
-c.888-fw.com
 c5i.co.za
 cadsacdsguge02.top
 cam81.fr
@@ -191,6 +199,7 @@ carmeluandgio.com
 casabeta.cat
 casadellasperanzadata.com
 casavilladibriano.it
+cat.jumpskyhigh.com
 cbavideography.com
 cdn-js-conhost.icu
 cdn-rcs-cloud.beer
@@ -215,6 +224,7 @@ cita-top.com
 citaasesoriareyes.com
 citasasesor.com
 cityfloralgreenhouse.com
+ck.erloro.com
 clarityfze.com
 cleaningnetwork.sg
 clevershop.nl
@@ -234,13 +244,16 @@ coccicocci.com
 code.nvc-info.beer
 complianceportals.com
 conntent.s4solar.co.nz
+copofaci.workers.dev
 cordeirophoto.com
+costum342183.life
 cpywl55758.workers.dev
 creeyacht.pl
 cricketmatchbettingtips.com
 cricketpuns.com
 crisbcreativa.com
 cristaldata.info
+cryptovectorhub3.lol
 cs2.acsdomaindsadas.click
 cup.blinqueofficial.com
 cyankellina.workers.dev
@@ -248,6 +261,7 @@ cybrspace.org
 cyclingjordan.co
 d6.76k.org
 daasxzdwqaguge01.top
+dad.adkfarmerdan.com
 dadhettniaedas.com
 dailygrynde.fit
 damianosgroup.com
@@ -256,6 +270,7 @@ dapkollumbuitenpost.nl
 darkord.com
 david-traut.de
 davidameyer.com
+deanna5.workers.dev
 deer.albaikmenuonline.com
 deltaimpression.tn
 dentoessencern.com.br
@@ -270,6 +285,8 @@ digitallightandsound.com
 dilruire.com
 diorauction.com
 disnasaskdjaxksjgg01.top
+dock.yourbodybydesign.me
+dome.369bbqsifangonline.com
 dome.beatdropkec.com
 dottoressagiusivillirillo.it
 douglascormack.co.uk
@@ -282,6 +299,7 @@ duck.bergamonerazzurra.com
 duke.poconodessertco.com
 duomegahair.com.br
 dusky-lark-piarnskaeum.ink
+e8alb83nqp.workers.dev
 earl.afghankabobgrill.com
 earl.blinqueofficial.com
 easyautism.org
@@ -319,17 +337,18 @@ falaqnurserybd.com
 fallaportdesilla.org
 fallbackmaximidfjdsia.com
 familyza.com
+fan.369bbqsifangonline.com
 fan.afghankabobgrill.com
 feedafoundation.org
 fern-roam-moss-luio.pro
 fesv.net
-fg.888-fw.com
 fhhiios.site
 fide45felhs.com
 financialangel.org
 financiales-groupe.com
 fincavrij.nl
 fingerprint-veri.info
+fingerprint-verification.info
 finikasi.homes
 first-frankfurt.de
 firstagrotech.com
@@ -363,16 +382,17 @@ gametyzy.workers.dev
 gate.albaikmenuonline.com
 gatorpixelai.com
 gbe6a8fd5w.workers.dev
+gc.9nawin.org
 gconsulting-ci.com
 gdalla.pics
 gemuesezuhause.de
+genniferclinical.workers.dev
 geometre-simon.com
 ggcheonegoovnfgg.top
 ggzc8z1w.travelley.health
 gibkerr.com
 girlsonpi823.life
 gixxipi9823.life
-gkalx2i1c9.workers.dev
 glacial-bloom-wren-croaon.life
 glamstreetz.com
 globalsourcing.africa
@@ -414,6 +434,7 @@ heartteamllc.com
 hejehygo.workers.dev
 helderbergexcavating.com
 hello-riders.com
+hen.yourbodybydesign.me
 heritagecc.co.za
 hertztech.pk
 hfcberlin.de
@@ -422,6 +443,7 @@ hireamermaid.com.au
 hitech-healthcare.in
 hjoeseiatehn.com
 hksoftech.com
+hm.9nawin.org
 hockey-betting-lines.com
 hollow-badger-moasfraum.life
 hollow-forge-rook-guiyn.life
@@ -434,6 +456,8 @@ hotuehett.com
 hruieeoefeor.com
 hsjornoboetotl.com
 hudicigu.workers.dev
+hulywali.space
+hut.yourbodybydesign.me
 huzylati.workers.dev
 hykonmt.com
 i.gckni.com
@@ -444,6 +468,7 @@ id.988boss.org
 idcheckbrowese.codes
 idcool.codes
 iflautisti.com
+igb.9nawin.org
 ih.888-fw.com
 ijdaiajsidjfif.cloud-ip.cc
 ikgiu89312.workers.dev
@@ -461,7 +486,6 @@ iowheuhle.com
 iptext.de
 iron.betweenthebunz.co
 iron.blacklabelfremont.com
-iscc.com.mx
 isemobil.de
 isifarmer.es
 islammalayalam.net
@@ -471,7 +495,6 @@ italiandreamholidays.it
 italleatgeeash.com
 iuriqa.legal
 iusversilia.it
-iy.888-fw.com
 j.88mdc.org
 jacarandabymar.com
 jagostinopc.com
@@ -491,8 +514,10 @@ just-foryou.fr
 jvhcustomshutters.com
 jvrcreativeindia.com
 k.88mdc.org
+k3.9nawin.org
 k5ts7qlf.adobeshin.app
 kajskdwekdxchsdgugefy02.top
+kalekos.world
 kanalizasyonacmaankara.com
 karrotrec-eli.com
 katiadavanzo.it
@@ -503,12 +528,12 @@ kendalfortson.com
 kidsmelabd.com
 kiln-gloix-kus3e.pro
 kiln-skioi-c29up.com
+king.369bbqsifangonline.com
 kinpms.com
 kiprihorycom.com
 kisansabha.org
 kitaqezi.workers.dev
 kj.888idrcatchy.org
-km0gj1ovc5.workers.dev
 konfiableplus.com
 kovidguptafilms.com
 kowloonindustries.org
@@ -537,6 +562,7 @@ lbbsxdsougouliulanqi.icu
 lbbsxwangyiyun.icu
 lbbzadcfssdxxtg.icu
 lcmservicesllcct.com
+ldwujspz.chloesteph.com
 leaf.cafemartinezsa.com
 leeandyoondental.com
 legubofa.workers.dev
@@ -551,17 +577,20 @@ liftsystemssolutions.com
 lincolnpublishers.us
 linedeci.workers.dev
 livebj66.com
+loepaord.xyz
 log.afghankabobgrill.com
 loizena.com
+lolati.workers.dev
 longslimpi.life
 loveurselfperu.com
 lovingthejourneys.com
 lp.imersaosevenx.com.br
 lppi.it
-lqfyq28438.workers.dev
+ls.988boss.org
 luck.blacklabelfremont.com
 lunarnoapfleon.pro
 lute.bowlinggreenwinnelsonco.com
+luzer.anix-to.com
 lynx.betweenthebunz.co
 lysdame.com
 lywomani.workers.dev
@@ -589,6 +618,7 @@ miguelangelcueto.com
 minibotmedia.com
 mirywa.workers.dev
 missietricky.workers.dev
+mobel.co.za
 mofza12619.workers.dev
 mole.albaikmenuonline.com
 moleroos.pro
@@ -607,6 +637,7 @@ moyerdesign.com
 mp24jhoc.zorgwelbrabant.nl
 msnbot-40-77-167-57.search.msn.com
 msrc-cu.org
+mucinsen.vn
 muratortaokulu.com
 mutualamba.com
 mw3hx21fut.workers.dev
@@ -625,7 +656,6 @@ news.pieset.co
 nfskin.com
 ngi.88idn.net
 ngjhgghdsftujfdshdhsguge.top
-ninypy.workers.dev
 nitcoenergy.com
 njgymyclrf1pntn06lgjm.beer
 nlspronos.fr
@@ -654,11 +684,14 @@ orkids.in
 orofranspain.com
 osmaneliyurtlari.com
 osolalkhebra.com
+ossb6.oss-cn-beijing.aliyuncs.com
 ouiucyh3.web-optimizer.us
 oxfordbrazilebm.com
 ozsae31509.workers.dev
 p3nqewz0nzrfs50w24qpun.beer
+pabxsupport.co.za
 palm.blueridgekcmo.com
+palm.yourbodybydesign.me
 pandya-system.com
 paolayenay.com
 pawparadise.site
@@ -672,6 +705,7 @@ pgieohops.com
 phv.88bravo.com
 physicallinkcomm.net
 physiotherapiekraft.de
+pidorsas.site
 pig.369bbqsifangonline.com
 pigeonsafaris.com
 pillpusher.net
@@ -679,6 +713,8 @@ pine.beatdropkec.com
 pizza-primavera-wiesbaden.de
 playmounthdom.top
 podhomestasmania.com
+pokarse.online
+popkas.bond
 pozalogi.workers.dev
 premierdentalrcm.com
 prestige-solution.com
@@ -696,7 +732,6 @@ pyramidrockrealty.com
 q.71k.org
 q16.71k.org
 qaswedcameitu01.top
-qatinaci.workers.dev
 qazxswdguge02.top
 qegacihy.workers.dev
 qj.988boss.org
@@ -727,7 +762,6 @@ rancholamuneca.com
 randlain.mom
 ranklocalhq.com
 rarzar.com
-rcn2co2t.socop.org
 rcyjc64bglyz21olcgtt.beer
 realblessingpro.com
 realstrikklyhiphop.com
@@ -772,9 +806,9 @@ rumahhantu.id
 rur3c58hk2l6b4wspfaewp.beer
 russellcourthotel.ie
 ryhigyve.workers.dev
-sa.888-fw.com
 sadsxsayiwaiwai.icu
 saffronsocial.com
+salfetka.anix-to.com
 sam-tech.pro
 samratech.com
 samsdqafeiji.top
@@ -801,6 +835,7 @@ sdn-cloudflare-js-css.cfd
 sdn-cloudflare-js.cfd
 sdxcsdeaguge.top
 sdxfdabiteliuanqi.icu
+seal.369bbqsifangonline.com
 seleniteatrium.org
 sellermobile.com
 seo.codesmithsystems.com
@@ -834,6 +869,7 @@ soul.poconodessertco.com
 spanishlessonslosangeles.com
 speeoporj.com
 spillets.com
+spiohop.shop
 spokanelessons.com
 sportmusicplay.com
 spruillcapital.com
@@ -869,6 +905,7 @@ teachintouch.it
 teamcase.it
 teamimpacttools.com
 tecnobrasautomacao.com.br
+teculse.click
 teeoklnhrntgj.com
 teiittoeg.com
 telegram.me
@@ -889,7 +926,6 @@ thetutimutabazi.org
 thewestybor.com
 theyouthtakeoverproject.org
 thuyengovn.com
-ti.888-fw.com
 tiumloir.com
 tjcreative.org.za
 tmnails.com
@@ -897,12 +933,14 @@ tools.lumma.cy
 topendtacticalstore.com
 toplistgialai.com
 topsailstandard.com
+tp.988boss.org
 traceembrace.co.za
 tradecorp.com.de
 tranquilacrestomahawk.com
 transactt.com
 transform-id21.com.sg
 travelersnotebooks.com
+travelley.health
 trekkernel4.com
 tribot.co.uk
 trilliot6776.icu
@@ -927,15 +965,19 @@ v4.988boss.org
 v4travels.com
 v61.8mytogel.org
 va.8mytogel.org
+valeroks.click
 valoconsulting.net
+valokse.lol
 vasservending.com
 vavoomdesign.com
-vazupi.workers.dev
 vb.888idrcatchy.org
 vdmmjzzh9w.workers.dev
 vectoriplaw.com
 velvet-otter-glagceis.life
 velvetreoskslaon.pro
+verico-de-id.beer
+verifing-server.codes
+verokase.xyz
 veronicacucco.it
 vertisapremiumincek.com
 verttige.tn
@@ -959,6 +1001,7 @@ wantinstitute.org
 wasp.blinqueofficial.com
 wassksdyiwaiwai01.top
 wb.88bravo.com
+web-optimizer.us
 webbet168.net
 webnghean.com
 webzeit.com
@@ -976,7 +1019,6 @@ workworm1412.buzz
 wr2.com.br
 wsadaxiangrikui.icu
 wsasaklsdkjasgugeliulan.top
-wsip-72-194-152-157.ph.ph.cox.net
 wuyexufanyi.top
 wuyexuleidian.top
 wuyexumeitu.top
@@ -992,6 +1034,8 @@ www.espacesante-suisse.ch
 www.iuriqa.legal
 www.iusversilia.it
 www.jacarandabymar.com
+www.lovingthejourneys.com
+www.paolayenay.com
 www.penyabarcelonistavilanova.cat
 www.qkshhdjrbd.work
 www.reliancegranito.com
@@ -1002,6 +1046,8 @@ www.smartchild.sk
 www.spanishlessonslosangeles.com
 www.sportmusicplay.com
 www.synergysparq.com
+www.teamcase.it
+www.ucerma.sk
 www.ufa007.tv
 www.vasservending.com
 www.verttige.tn
@@ -1031,15 +1077,16 @@ year.calvinpreschooloffice.com
 yelphelper.com
 yiygdfanwesyi.top
 yiyuxxfanyi.top
-yk.888-fw.com
 ym.88bravo.com
 yocvn.top
 ytzsadguge1.top
 yutpn23730.workers.dev
+yuw.88idn.net
 yv.888idrcatchy.org
 z.88mdc.org
 z7.8mytogel.org
-zadivy.workers.dev
+zaerkos.rest
+zaeroks.website
 zakgz07369.workers.dev
 zambraao.lol
 zcuar44747.workers.dev
@@ -1057,4 +1104,3 @@ zone3capital.com
 zonxh.shop
 zoo-station.com
 zubyretu.workers.dev
-zylobeza.workers.dev
