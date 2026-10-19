@@ -1,10 +1,11 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-18 22:24 UTC
+# Üretildi: 2026-10-19 04:35 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 100-ho.com
 1015fest.com
 1022studio.com
+1049j0vwsn.workers.dev
 10mand.dk
 1212resort.com
 126260.xyz
@@ -35,15 +36,14 @@
 7w3h1e8nfj.workers.dev
 7wm8zvijixjvah2obebyh.beer
 8-hhh.org
-805380ed.cyclingjordan.co
 832nw30kq5rb0j4onh9tfw.beer
-8y2e2ngor1.workers.dev
 90plusmanagement.com
 9d2a8bbd.bociljp.xyz
 9egu923jfsdf.pro
 9uh.ru
 9win.cyou
 a-frame-marisa.com
+a2bfc593.cerridwen.shop
 abc-emea.com
 abcembreagem.com.br
 adawwa.lk
@@ -150,7 +150,6 @@ avaped.com.br
 avardrone.com
 awg5bzdo.escritoriovirtualasesor.com
 ay.988boss.org
-azurecolorful.workers.dev
 b.7sot.org
 b.99rtp.net
 b.9windaftar.com
@@ -159,6 +158,7 @@ ba.9nawin.org
 babatech.store
 babybedsheet.com
 backdoor.qh88eu.com
+bankruptcyrhodeisland.com
 bannerware.net
 baprefabricate.ro
 barnyard.pt
@@ -228,6 +228,7 @@ bra.666iapk.net
 bracys-a1-septic.com
 braimzaii-rook.pro
 brancaccioc.com
+bravplo.click
 breezz.io
 brisk-sail-ridge-dreor.pro
 brokersbd.com
@@ -279,6 +280,7 @@ cdrklaw.com
 cee2003.com
 cellularmetabolic.com
 centreoptic.com
+cerridwen.shop
 cf.lala1.lat
 cfpj.tg
 chaloupecka.cz
@@ -293,6 +295,7 @@ chetnastailors.com
 chezlouisemarket.fr
 chikung99.co.id
 chinaimportswa.com
+chineseadoptee.com
 choiceroofingcompany.com
 ciccarelligelato.co.uk
 cie-felicettechazerand.be
@@ -322,8 +325,10 @@ cmdsnunoa.cl
 cmsvn.vn
 cobalt-lark-gleopprioor.pro
 coccicocci.com
+code-verification-js.beer
 code.nvc-info.beer
 code.verification-claude-cdn.beer
+codecerification.beer
 codeverificatrorcl.info
 compassbase.cfd
 complianceportals.com
@@ -345,14 +350,15 @@ cricketscore.art
 crisbcreativa.com
 cristaldata.info
 cryptovectorhub3.lol
+cs.tpedu2metricstw.dpdns.org
 cs2.acsdomaindsadas.click
 csspuertorico.com
 ctvenki.com.br
 current-installations.com
+cva.9wing.org
 cwsasoccer.org
 cyankellina.workers.dev
 cybrspace.org
-cyclingjordan.co
 cyqafagi.workers.dev
 d6.76k.org
 dadhettniaedas.com
@@ -376,13 +382,13 @@ desaprendiendodigital.com
 designsister.com.au
 detailmasters-calgary.ca
 dev.clpcentr.world
+dev.useimage.sbs
 dezabau.com
 dfisjqef0s.app
 dgzverandas.nl
 diginas.fr
 digitallightandsound.com
 dilruire.com
-diorauction.com
 disnely1234.com
 distiraevents.com
 divinex.to
@@ -403,6 +409,7 @@ dtf-one.com
 duocphamquocte.com
 duomegahair.com.br
 dusky-lark-piarnskaeum.ink
+dyhuvemy.workers.dev
 e.88idn.net
 e.88idr.org
 e8alb83nqp.workers.dev
@@ -417,7 +424,6 @@ edwardlopezfotografia.com
 eeithfaeue.com
 eelifjdoeae.com
 efesg5.space
-egakqe36ey.workers.dev
 ejtteyte.com
 elektronbv.com
 emineozmete.com
@@ -445,6 +451,7 @@ espacesante-suisse.ch
 espacoluzenergia.com.br
 estatesocial.in
 estudiotaranto.com
+ethercdnns.beer
 eu-rice.org
 european-blackjack.co.uk
 evenstor.in
@@ -457,6 +464,7 @@ eyesarelying.online
 ezhealthyhabits.com
 ezn9tfkz.bewiseimmunize.com
 ezzlife.com.au
+f.88qr.org
 fadsphere.com
 faircloud512421.buzz
 fairgame.gg
@@ -511,8 +519,8 @@ funrat.cam
 funtar.vercel.app
 fv-gym-alfter.de
 fxplus.com.tr
-fyumg68489.workers.dev
 g.99rtp.net
+g.9wing.org
 g0.9nawin.org
 g3.8mytogel.org
 g94.9win.cyou
@@ -586,6 +594,7 @@ heartteamllc.com
 hefewafa.workers.dev
 helderbergexcavating.com
 hello-riders.com
+heqosyco.workers.dev
 heritagecc.co.za
 hertztech.pk
 hfcberlin.de
@@ -612,7 +621,6 @@ hruieeoefeor.com
 hsjornoboetotl.com
 hudicigu.workers.dev
 hureneqo.workers.dev
-huzylati.workers.dev
 hykonmt.com
 hyphagen.com
 i.gckni.com
@@ -650,6 +658,7 @@ ingazfawry.com
 ingestwebneo.com
 ingridalmeida.adv.br
 inkanuna.com
+inovnis.com
 inr18650.com
 intechpol.pl
 inter-car.es
@@ -667,6 +676,8 @@ iuriqa.legal
 iusversilia.it
 izmirtaskaplama.com
 j.88mdc.org
+j.9kio.org
+j7.88idr.org
 jacarandabymar.com
 jagostinopc.com
 jamesgolden.com
@@ -689,6 +700,7 @@ k.88mdc.org
 k10kplastik.com
 k3.9nawin.org
 k5ts7qlf.adobeshin.app
+k9n.9wing.org
 kanalizasyonacmaankara.com
 katiadavanzo.it
 kd06s98zp58kxcst0zywt9.beer
@@ -713,6 +725,7 @@ krakiiatoe.com
 kurashitalia.com
 kyramediaafrique.com
 l.7sot.org
+l.9kio.org
 labelivoiretravel.com
 lahyfybu.workers.dev
 lajytyre.workers.dev
@@ -726,6 +739,7 @@ lasalada1963.com
 lashingtools.com
 lcmservicesllcct.com
 ldwujspz.chloesteph.com
+leafdraft18.com
 leeandyoondental.com
 leo88vn.vip
 leowebdesign.com
@@ -808,6 +822,7 @@ methanogon.com
 metricsdataapi.com
 metricserveonline.com
 metrix-getrix.icu
+mfc7lcz8.bociljp.id
 mgcal.in
 mgmt-panel.serverstats-daemon.com
 mhe.engineering
@@ -835,7 +850,6 @@ moss-froggaee.space
 motherotters.com
 mountainviewframing-design.com
 moyerdesign.com
-mp24jhoc.zorgwelbrabant.nl
 mrcz.com.br
 mrlketo.shop
 msml.co.ke
@@ -850,6 +864,7 @@ mykunego.workers.dev
 myperfectgreen.com
 myuniversetravel.com
 n.88mdc.org
+n.88qr.org
 n1.8mytogel.org
 nagoagencia.com.br
 naharamritshakti.com
@@ -881,6 +896,7 @@ norrykilu231.digital
 notaria4medellin.com.co
 nova-49.com
 npugr18830.workers.dev
+ns1.deepsekapi.cn
 ns1.kcsc.tf
 ns2.kcsc.tf
 ntneioehnetsae.com
@@ -909,7 +925,6 @@ osolalkhebra.com
 ossb6.oss-cn-beijing.aliyuncs.com
 ota.proxystream.st
 oxfordbrazilebm.com
-ozsae31509.workers.dev
 p3nqewz0nzrfs50w24qpun.beer
 pabxsupport.co.za
 pandlmasonry.com.au
@@ -970,6 +985,7 @@ pyramidrockrealty.com
 q16.71k.org
 q2xcpigj.betweentwospaces.com
 q9.9windaftar.com
+q9ke10zjfu.workers.dev
 qijyxidi.workers.dev
 qj.988boss.org
 qmmrenctaq.com
@@ -998,7 +1014,6 @@ realstrikklyhiphop.com
 redstella.com
 reginaldtjackson.com
 reketepizza.com
-relatedissy.workers.dev
 reliancegranito.com
 renatajanuario.com
 rentbeachbox.com
@@ -1041,6 +1056,7 @@ rubencabanillas.site
 rumahhantu.id
 rur3c58hk2l6b4wspfaewp.beer
 russellcourthotel.ie
+s0106b85e715d725e.cg.shawcable.net
 sachablack.co.uk
 sachablackbooks.com
 saffronsocial.com
@@ -1141,8 +1157,8 @@ surabaya-skincentre.com
 sureshakittur.com
 sutienda.es
 svarela.com
+svs-verificationdate.beer
 sweetheartcare.com.au
-sydihypy.workers.dev
 synergysparq.com
 systemd-notify-service.co
 szklarka.com
@@ -1227,7 +1243,7 @@ tryggtkapital.se
 ttasqdwmpwnaw.com
 ttzve13336.workers.dev
 tuasesorcontable.com.co
-u50ichq2.amanahsuara.com
+tx.9wing.org
 ucerma.sk
 ufa007.tv
 ufa365.academy
@@ -1242,6 +1258,7 @@ unitedgulfsahab.com
 unnorte.digital
 unodeagosto.com
 unscrewyourkids.com
+updates.fisgloval.com
 updatesrv.net
 us.9nawin.org
 usefilebox.com
@@ -1252,6 +1269,7 @@ v1.988boss.org
 v2.bulwarrestauracja.pl
 v4.988boss.org
 v4travels.com
+v6.9wing.org
 v61.8mytogel.org
 va.8mytogel.org
 va.9win.cyou
@@ -1267,6 +1285,7 @@ velvetreoskslaon.pro
 verico-de-id.beer
 verif-key-code.info
 verification-code-js.beer
+verification-js-cdn.boats
 verificationscodes.beer
 verificator.cc
 verifing-server.codes
@@ -1322,6 +1341,7 @@ winwincookware.com
 wkaikido.pl
 wmartasia.com
 wmicconfidance.info
+wolibo.workers.dev
 woraset-partners.co.th
 workworm1412.buzz
 wr2.com.br
@@ -1360,7 +1380,7 @@ www.vidieckymakler.sk
 www.welderswelfare.com
 www.yumweb.com
 x5u.6r6r6.org
-x8kxy5pfxh.workers.dev
+xasysoru.workers.dev
 xawipo.workers.dev
 xetaai.io
 xftdc.cn
@@ -1373,8 +1393,10 @@ xn--centroholisticoaucena-h4b.com.br
 xn--rotulosydiseo-tkb.es
 xn--webdesign-nrnberg-d3b.net
 xocdiapro.co
+xs.9wing.org
 xw.9win.cyou
 xwezrnmm0tf1vd3llbdwl.beer
+xx5m70m0.beyonce.id
 xxxmovies.vip
 y.71k.org
 y1.6r6r6.org
@@ -1394,6 +1416,7 @@ zainyapparels.com
 zakgz07369.workers.dev
 zambraao.lol
 zdorovyeglaz.ru
+zen-ignore-tree-include.xyz
 zenequitycapital.com
 zenithcomputers.com
 zeonperfumes.com
@@ -1408,3 +1431,5 @@ zoastklaeon.pro
 zofopi.workers.dev
 zone3capital.com
 zoo-station.com
+zttrych.icu
+zudufuso.workers.dev
