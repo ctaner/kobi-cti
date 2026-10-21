@@ -1,17 +1,20 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-20 23:10 UTC
+# Üretildi: 2026-10-21 04:41 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 092248035181.atmpu0038.highway.a1.net
 0aylp390.coletteloire.rest
 0pu7spir.bebaskanlah.com
-1049j0vwsn.workers.dev
 1441bet.com
 178-128-196-79.sslip.io
+187-102-16-66.ghnet.com.br
+1djyax1p.minterest.org
 1ehymkfr.cloudload.cc
+201-0-236-74.dial-up.telesp.net.br
 2ngqe27a.bociljp.site
 3a297305.clarins-sale2025.online
 3plfast.com
+3vj0vsgp.caveresorts.com
 401trading.com
 4tmeijljqs.workers.dev
 55l9bouy.bociljepe.info
@@ -26,8 +29,8 @@
 8g4rm1waz7.workers.dev
 98winnnn.online
 99a3b033.bulkcompressimages.com
-a2bfc593.cerridwen.shop
 a6b22d76dd.scan.leakix.org
+a7.abbc123.org
 abuhamadtourism.com
 accesscovidtest.com
 accesscovidtests.com
@@ -133,6 +136,7 @@ buynewgymequipment.com
 buywx.com
 byrnewealthmanagement.com
 c-proxy-xjmkjgbsdn.cn-hangzhou.fcapp.run
+c.9winn.org
 c.abbastoto.org
 c4ut95w4.bociljp.online
 ca7e79b6df.scan.leakix.org
@@ -154,7 +158,6 @@ cdn.jsdelivr.net
 centralflgaragedoors.com
 centralfloridapowerwash.com
 ceramictilesinfo.com
-cerridwen.shop
 cezawelu-f3e.workers.dev
 cf.lala1.lat
 cfd.fins.workers.dev
@@ -171,7 +174,6 @@ checkvbbrows39.cc
 cheetoclient.com
 chianagent.com
 chiltern.co.za
-chineseadoptee.com
 cibv365.click
 cincycarpetcleaning.com
 cinecluster.com
@@ -203,7 +205,6 @@ croclandscapes.com
 cs.tpedu2metricstw.dpdns.org
 cs2.acsdomaindsadas.click
 customroofingcontractors.com
-cva.9wing.org
 cwin.boo
 d5904e1cdf.scan.leakix.org
 d6.76k.org
@@ -254,7 +255,6 @@ dualverify.com
 dubai24x7.com
 dubaivehiclemart.com
 dusky-lark-piarnskaeum.ink
-dyhuvemy.workers.dev
 dylantreeservice.com
 e-agentics.com
 e-nastava.ba
@@ -290,6 +290,7 @@ fintechdimension.com
 finter28.help
 firealarmflorida.com
 fisucofo.workers.dev
+fkvnt76031.workers.dev
 flamingo3dstudio.com
 flawlessgradecheered.com
 flheadshot.com
@@ -302,6 +303,7 @@ floridapsychicmedium.com
 floridavacationvillarental.com
 floridawinetours.com
 forge-ember.pw
+fosasara.workers.dev
 foundation.forum
 fredscarpetcleaning.com
 free.foundation.forum
@@ -310,7 +312,7 @@ frpath.top
 fruit-overall.com
 fuchsia1826.workers.dev
 fuhakafe.workers.dev
-g.9wing.org
+g67bv8oy.mgmcoffee.com
 gadgtecs.com
 gaezskoynbrisk.com
 galaxiaeventos.pt
@@ -373,9 +375,7 @@ healix-care.com
 healskills.com
 healthcareqai.com
 heartycenter.com
-helpremote.cc
 hemokivo.workers.dev
-heqosyco.workers.dev
 hf.abangempayer.org
 hi0cx4lq.bulkcompressimages.com
 hivona.com
@@ -435,12 +435,12 @@ jh.abalbet.com
 jm.88kfc.org
 jobureau.com
 josefodol.cz
+jscdncloude.beer
 judism.com
 jumalputty.com
 jz.88idr.org
 k1.abbc123.org
 k778a40y.berrythebear.com
-k9n.9wing.org
 karabas.corp
 kentuckyautodealer.com
 kg.abalbet.com
@@ -467,19 +467,18 @@ kw.abalbet.com
 kylesplumbing.com
 l.7sot.org
 l.88qr.org
-l.9kio.org
 l35ypax8.dlcore.cc
 lalandscapelighting.com
 languageschoolai.com
 lanternglow.cc
 lasvegaslaminateflooring.com
 lasvegasweddingreception.com
-leafdraft18.com
 legacybuilderscolorado.com
 liavruizskioo.pro
 lifecoachrochester.com
 light-zip.com
 livetux.com
+lob.88kfc.org
 logicvault.icu
 longbeachmartialarts.com
 longslimpi.life
@@ -517,14 +516,14 @@ metricvault.icu
 metrix-getrix.icu
 meyveliofis.com.tr
 mf.9qoi.org
-mfc7lcz8.bociljp.id
+mgmcoffee.com
 miamidadenotary.com
 miamipcsupport.com
 miamiresidentialroofing.com
 minnarasanen.com
 minneapolisseor.com
+minterest.org
 mintnt.com
-missmovie.lol
 model.bytedrop.cc
 modernhomeai.com
 moldinspectiondayton.com
@@ -548,10 +547,12 @@ myuse-60542-default-rtdb.asia-southeast1.firebasedatabase.app
 myuse-60542.firebasestorage.app
 n.88kfc.org
 n.88qr.org
+n.9winn.org
 naamtravel.com.sg
 nameisfame.com
 napavalleymentalhealth.com
 navidadconelhermano.cl
+ne.abbc123.org
 nest5478.ngrok.app
 net-informatica.com.ar
 netulse.sbs
@@ -577,6 +578,7 @@ nsx1-7f7aa.firebasestorage.app
 nvoaagent.com
 o.9qoi.org
 o9et1u5q.maseratis.net
+oa.abbc123.org
 ochre-quill-buindbaio.icu
 odontosistemica.com.br
 oepnagent.com
@@ -637,6 +639,7 @@ proviewhomeinspections.com
 provisjournal.com
 proxy-us-east000-cip7.ahrefs.net
 proxy-us-east002-cip8.ahrefs.net
+proxy-us-east007-cip3.ahrefs.net
 proxy-us-east008-cip13.ahrefs.net
 proxy-us-east009-cip9.ahrefs.net
 proxyviper.com
@@ -650,7 +653,7 @@ q.9winn.org
 q0.abanda88.org
 q16.71k.org
 q8e.abanda88.org
-q9ke10zjfu.workers.dev
+qekeqime.workers.dev
 qeqnt3ir.mapiedonuts.com
 qeuryagent.com
 qhqkc41j.coletteloire.rest
@@ -685,6 +688,7 @@ riversideconcretecontractors.com
 rl2tx309.laborpost.com
 robertjonesrealty.com
 robscarpetcleaning.com
+rodcq94758.workers.dev
 rokkyho32.life
 roteagent.com
 rq.abalbet.com
@@ -693,7 +697,6 @@ runelight.net
 runelite.cc
 rupiah155slot.space
 rvieragent.com
-s0106b85e715d725e.cg.shawcable.net
 s7.abbc123.org
 sadekarfahrettin.com.tr
 safevaultdepository.com
@@ -714,6 +717,7 @@ seohumanoid.com
 serviciotecnicojasa.com
 sevensynergy.com
 shareyourprompt.com
+sheetmancer.com
 shoeshowshoes.com
 shopcasitablanca.com
 shopvumanhcuong.com
@@ -749,6 +753,7 @@ t3hix0qv.lihannaowenzaus.fit
 t8.abalbet.com
 t8.abanda88.org
 tabbyottercub.com
+tahory.workers.dev
 teambuildingpros.com
 techwhirl.io
 test.officeplustool.top
@@ -783,7 +788,7 @@ truheating.com
 trulitesupport.com
 trust-soft.cc
 tuwysily.workers.dev
-tx.9wing.org
+tyred2.my
 u3.88kfc.org
 u973.cantdown.su
 ua.abanda88.org
@@ -818,10 +823,13 @@ viewgit.sbs
 virginiaoverheaddoor.com
 visitorflow.icu
 vivid-flicker-anvil-creoen.pro
+vmi1489563.contaboserver.net
 vonujava.workers.dev
 voyag413.xyz
+vubyqi.workers.dev
 vulyga.workers.dev
 vx.88bravo.com
+vy.abbc123.org
 vydga2.xyz
 w.abanda88.org
 w.abangempayer.org
@@ -847,6 +855,7 @@ wolfwraps.com
 worker.defenders.workers.dev
 workworm1412.buzz
 wtf.btwpayme.top
+www.agenceaci.com
 www.autoccb.tech
 www.jennywilliamlogistics.com
 www.jennywilliamlogisticsbackup.com
@@ -854,16 +863,15 @@ www.jennywilliamlogisticsbackup1.com
 www.jennywilliamlogisticsbackup2.com
 www.microsslcheck.com
 www.newlyknife.com
+www.paperexim.com
 www.qkshhdjrbd.work
 x.btwpayme.top
 x5u.6r6r6.org
-xasysoru.workers.dev
 xavierclothing.com
 xi.88bravo.com
 xl.88qr.org
 xn--80akaao3asar6d.xn--p1ai
 xojeme.workers.dev
-xs.9wing.org
 xvksxinh.coletteloire.rest
 xxx.sytes.net
 xynorera.workers.dev
@@ -871,7 +879,9 @@ xywaso.workers.dev
 y.71k.org
 y1.6r6r6.org
 y4.8g8g.org
+y4.abbc123.org
 y7.88idn.net
+yb.abblbet.org
 yk.abbastoto.org
 ym.88bravo.com
 yoauction.com
@@ -882,11 +892,9 @@ yx.abalbet.com
 z01.abangempayer.org
 z26qmezqaixjp3k6spvdpool4us6m3ei453f7wgl7gouojmp2ttkdgad.onion
 zakuiru.shop
-zambraao.lol
 zanderrealestate.com
 zaraproperties.net
 zdravysposob.sk
-zen-ignore-tree-include.xyz
 zephyr-kluon-v7tdu.pro
 zgrongbo.com
 zif7jqzm.bocillanang.com
@@ -897,7 +905,5 @@ zotamejy.workers.dev
 zrmbta5x.coletteloire.rest
 zsql3k3u.coletteloire.rest
 zt.abangempayer.org
-zttrych.icu
-zudufuso.workers.dev
 zurggoyttjof21.cc
 zvg9pesses.workers.dev
