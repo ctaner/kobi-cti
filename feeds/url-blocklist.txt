@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - URL engelleme listesi
-# Üretildi: 2026-10-27 20:40 UTC
+# Üretildi: 2026-10-28 05:36 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 http://100.1.77.18:49090/Mozi.m
