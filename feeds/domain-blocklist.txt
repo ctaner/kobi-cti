@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - Alan adı engelleme listesi
-# Üretildi: 2026-10-31 14:30 UTC
+# Üretildi: 2026-10-31 19:57 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 092248035181.atmpu0038.highway.a1.net
