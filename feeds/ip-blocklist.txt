@@ -1,5 +1,5 @@
 # KOBİ CTI Portalı - IP engelleme listesi
-# Üretildi: 2026-11-05 12:15 UTC
+# Üretildi: 2026-11-05 19:58 UTC
 # Kaynaklar: abuse.ch (Feodo/URLhaus/ThreatFox), USOM
 # UYARI: Üretime almadan önce izleme (log) modunda test edin.
 1.12.253.219
